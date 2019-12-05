@@ -24,5 +24,6 @@ public class ItemDrop : MonoBehaviour
         {
             Inventory.inventory.AddIten(item);
         }
+        Destroy(gameObject);
     }
 }

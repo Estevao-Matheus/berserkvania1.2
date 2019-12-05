@@ -68,7 +68,7 @@
     <Compile Include="Assets\Scripts\Consumable_itens.cs" />
     <Compile Include="Assets\Scripts\Dont_Destroy.cs" />
     <Compile Include="Assets\Scripts\Inventory.cs" />
-    <Compile Include="Assets\Scripts\Item Drop.cs" />
+    <Compile Include="Assets\Scripts\ItemDrop.cs" />
     <Compile Include="Assets\Scripts\Player_Controller.cs" />
     <Compile Include="Assets\Scripts\weapon.cs" />
     <Compile Include="Assets\Scripts\WeaponDrop.cs" />

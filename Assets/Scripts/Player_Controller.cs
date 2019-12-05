@@ -20,6 +20,12 @@ public class Player_Controller : MonoBehaviour
     private Weapon ArmaEquipada;
     private Animator animator;
     private Attack attack;
+    public Consumable_itens item;
+
+    public int vidaMax;
+    public int manaMax;
+    public int vidaAtual;
+    public int manaAtual;
     
     void Start()
     {
@@ -85,6 +91,20 @@ public class Player_Controller : MonoBehaviour
     {
         ArmaEquipada = arma;
         attack.SetWeapon(ArmaEquipada.dano);
+    }
+
+    public void UseIten (Consumable_itens item)
+    {
+        vidaAtual += item.qtdeCura;
+        if(vidaAtual>=vidaMax)
+        {
+            vidaAtual = vidaMax;
+        }
+        manaAtual += item.qtdeMana;
+        if (manaAtual >= manaMax)
+        {
+            manaAtual = manaMax;
+        }
     }
 
     public void Flip()

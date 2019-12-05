@@ -36,4 +36,15 @@ public class Inventory: MonoBehaviour
     {
         itens.Add(item);
     }
+    public void RemoveItem (Consumable_itens item)
+    {
+        for(int i=0; i< itens.Count;i++)
+        {
+            if(itens[i]== item)
+            {
+                itens.RemoveAt(i);
+                break;
+            }
+        }
+    }
 }
