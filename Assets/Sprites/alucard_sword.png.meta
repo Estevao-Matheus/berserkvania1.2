@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 00133d253691511479f300745129e120
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3306427386064443437
+    second: alucard_sword_0
+  - first:
+      213: 5912729735516578948
+    second: alucard_sword_1
+  - first:
+      213: 2686686738552964699
+    second: alucard_sword_2
+  - first:
+      213: 529678643756499554
+    second: alucard_sword_3
+  - first:
+      213: -4043578565512004576
+    second: alucard_sword_4
+  - first:
+      213: 7986108988798208723
+    second: alucard_sword_5
+  - first:
+      213: -3465166427675810286
+    second: alucard_sword_6
+  - first:
+      213: -4527200586688770025
+    second: alucard_sword_7
+  - first:
+      213: -2903162688961430482
+    second: alucard_sword_8
+  - first:
+      213: -5045334129226651443
+    second: alucard_sword_9
+  - first:
+      213: 4793927555881581247
+    second: alucard_sword_10
+  - first:
+      213: 8642142184822404032
+    second: alucard_sword_11
+  - first:
+      213: -5177155433051399856
+    second: alucard_sword_12
+  - first:
+      213: -5668496038396939487
+    second: alucard_sword_13
+  - first:
+      213: 2814041096733910720
+    second: alucard_sword_14
+  - first:
+      213: -4096862770241318257
+    second: alucard_sword_15
+  - first:
+      213: -5988860719006019867
+    second: alucard_sword_16
+  - first:
+      213: 4683926718297923343
+    second: alucard_sword_17
+  - first:
+      213: -1337462631550230196
+    second: alucard_sword_18
+  - first:
+      213: -6447009138007735234
+    second: alucard_sword_19
+  - first:
+      213: 3769255372840956017
+    second: alucard_sword_20
+  - first:
+      213: -9130643507622580781
+    second: alucard_sword_21
+  - first:
+      213: -4687350685946640992
+    second: alucard_sword_22
+  - first:
+      213: 6538924699350705144
+    second: alucard_sword_23
+  - first:
+      213: -5750829590526677406
+    second: alucard_sword_24
+  - first:
+      213: -367065478653437111
+    second: alucard_sword_25
+  - first:
+      213: -1083247609226892163
+    second: alucard_sword_26
+  - first:
+      213: -6861131665749222998
+    second: alucard_sword_27
+  - first:
+      213: -4813913826200406229
+    second: alucard_sword_28
+  - first:
+      213: -9142886481089712264
+    second: alucard_sword_29
+  - first:
+      213: -392543459055994321
+    second: alucard_sword_30
+  - first:
+      213: 927510001380938136
+    second: alucard_sword_31
+  - first:
+      213: 6144025564482555048
+    second: alucard_sword_32
+  - first:
+      213: -1426778919249490696
+    second: alucard_sword_33
+  - first:
+      213: -3127115967470275391
+    second: alucard_sword_34
+  - first:
+      213: -4834419494217602052
+    second: alucard_sword_35
+  - first:
+      213: 8518547913784714585
+    second: alucard_sword_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alucard_sword_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 89
+        width: 72
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fad3f70e893184a9a112d3ce7e80b4
+      internalID: -3306427386064443437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_1
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 88
+        width: 70
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d5a964939f797448910d5d34f5d8be
+      internalID: 5912729735516578948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_2
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 90
+        width: 63
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fb8b5be8c2c7841add6f77d561bd87
+      internalID: 2686686738552964699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 88
+        width: 52
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ddd20f751398de409649d912c4f1397
+      internalID: 529678643756499554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_4
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 94
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318bbd18510ff9a49b13f15bd88902c8
+      internalID: -4043578565512004576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_5
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 94
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb74f6dccf9765438bacf6d50e16ca8
+      internalID: 7986108988798208723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_6
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 94
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810854e59c6a3da4f9039cbd51dc4f2a
+      internalID: -3465166427675810286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_7
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 94
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df039a335c2fff45b97fd16cc1e432f
+      internalID: -4527200586688770025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 94
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008aef8f3cac5224f8c797eef7d70df6
+      internalID: -2903162688961430482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 94
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e4ee9330e56a2438756eb12ab9a901
+      internalID: -5045334129226651443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 94
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ea7b09a6ebdeb4695fb3b457173a2d
+      internalID: 4793927555881581247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_11
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 94
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3485a1ad0b6986941ab21376d0d65367
+      internalID: 8642142184822404032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 72
+        width: 52
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078f304f6e705224f8a0a98e71f5e57e
+      internalID: -5177155433051399856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_13
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 73
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb996c3c13c7b542ad9a16deca6ef71
+      internalID: -5668496038396939487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_14
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 73
+        width: 52
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a954f4754343e8c408351806ed895868
+      internalID: 2814041096733910720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_15
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 74
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbe1204a194adc44a8c17d50a21f5b8
+      internalID: -4096862770241318257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 73
+        width: 52
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfbd7116336dff499f9cecfa9c51a07
+      internalID: -5988860719006019867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 74
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2bf144aa391664b9160c71564a8743
+      internalID: 4683926718297923343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 71
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2148cf399c6c6949aab4f33b9170e03
+      internalID: -1337462631550230196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_19
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 72
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb0b5ae0cea66844b14ac06c0835469
+      internalID: -6447009138007735234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 19
+        width: 70
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee594e480b8db8479a144eadc8c1725
+      internalID: 3769255372840956017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_21
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 23
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000892f1bb057b643994acfb7c2d3415
+      internalID: -9130643507622580781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_22
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 42
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85360d546302c3948879231adc14c808
+      internalID: -4687350685946640992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_23
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 55
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5b32b569746fc4586a4f2e5b070089
+      internalID: 6538924699350705144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_24
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 22
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cb9b3378e679741b0f39737ae8adf1
+      internalID: -5750829590526677406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_25
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 43
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800a2838be3fbd944b5352f0ab9769e3
+      internalID: -367065478653437111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_26
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 24
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cdf30b969bf4940b0beb861bd4e486
+      internalID: -1083247609226892163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_27
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 43
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4c7f02576f66a49ad4b57c4ded3505
+      internalID: -6861131665749222998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_28
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 22
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acfad15da0fa3643bcb8cf06e2cd108
+      internalID: -4813913826200406229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_29
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 41
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aac4bb26c756464ab3972f8eb5c9c38
+      internalID: -9142886481089712264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_30
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 22
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f3881a06a1c534d9e3734a6ccdddf7
+      internalID: -392543459055994321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_31
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 22
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8326820f2e6237443a652313f32164d9
+      internalID: 927510001380938136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_32
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 22
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee9ab3d107c5194db13ffda73230a54
+      internalID: 6144025564482555048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_33
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 22
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59034b295b195804b87ca92957c58cc9
+      internalID: -1426778919249490696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_34
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 22
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb3f0abb6a420443b1f7e8246ceda4a
+      internalID: -3127115967470275391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_35
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 20
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9413bbc2e5fdea94ab3ea3e8d6cea9be
+      internalID: -4834419494217602052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alucard_sword_36
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 7
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b787d8297fe33419a06eca91ede5cf
+      internalID: 8518547913784714585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

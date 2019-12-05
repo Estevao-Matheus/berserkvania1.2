@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: Alucard Sword
+  m_EditorClassIdentifier: Assembly-CSharp::Weapon
+  itemID: 2
+  weaponName: Alucard Sword
+  "descri\xE7\xE3o": Espada do Alucard
+  dano: 50
+  image: {fileID: 6147428750601947178, guid: da50acc74ef249f4e9978e61d59f3ee4, type: 3}
+  "anima\xE7\xE3o": {fileID: 7400000, guid: d41e418688ddc9d4f9d504df9ecdd612, type: 2}
+  mensagem: t

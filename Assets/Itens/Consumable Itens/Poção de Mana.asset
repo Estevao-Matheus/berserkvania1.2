@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 007761afa9944e044b1cda91b5f922df, type: 3}
+  m_Name: "Po\xE7\xE3o de Mana"
+  m_EditorClassIdentifier: 
+  itemID: 2
+  itemNome: "Po\xE7\xE3o de Mana"
+  "descri\xE7\xE3o": "Po\xE7\xE3o desenvolvida pelos alquistas para restaurar a energia
+    magica dos homens"
+  imagem: {fileID: 2685665559570746535, guid: f194bc6e36f54aa4ca0c42cb848a9186, type: 3}
+  qtdeCura: 0
+  qtdeMana: 30
+  menssagem: "Po\xE7\xE3o de Mana coletada"
