@@ -69,7 +69,9 @@
     <Compile Include="Assets\Scripts\Dont_Destroy.cs" />
     <Compile Include="Assets\Scripts\Inventory.cs" />
     <Compile Include="Assets\Scripts\ItemDrop.cs" />
+    <Compile Include="Assets\Scripts\ItemList.cs" />
     <Compile Include="Assets\Scripts\Player_Controller.cs" />
+    <Compile Include="Assets\Scripts\UiManager.cs" />
     <Compile Include="Assets\Scripts\weapon.cs" />
     <Compile Include="Assets\Scripts\WeaponDrop.cs" />
     <Reference Include="Unity.Timeline.Editor">
