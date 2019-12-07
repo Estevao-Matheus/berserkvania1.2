@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class UiManager : MonoBehaviour
 {
-    
+
     private bool pausemenu = false;
     public Transform cursor;
     public GameObject pausePanel;
@@ -30,7 +30,7 @@ public class UiManager : MonoBehaviour
     {
         iventory = Inventory.inventory;
         player = FindObjectOfType<Player_Controller>();
-        
+
     }
 
     // Update is called once per frame
@@ -51,7 +51,8 @@ public class UiManager : MonoBehaviour
             if (pausemenu)
             {
                 pausePanel.SetActive(true);
-            } else
+            }
+            else
             {
                 pausePanel.SetActive(false);
             }
@@ -64,7 +65,8 @@ public class UiManager : MonoBehaviour
             {
                 cursorposition = menuOptions[cursorIndex].transform.position;
                 cursor.position = new Vector3(cursorposition.x - 100, cursorposition.y, cursorposition.z);
-            } else if (itemListActive && itens.Count > 0)
+            }
+            else if (itemListActive && itens.Count > 0)
             {
                 cursor.position = itens[cursorIndex].transform.position;
                 cursor.position = new Vector3(cursorposition.x - 75, cursorposition.y, cursorposition.z);
@@ -88,7 +90,7 @@ public class UiManager : MonoBehaviour
                     }
                 }
                 else
-                cursorIndex++;
+                    cursorIndex++;
                 if (itemListActive && itens.Count > 0)
                 {
                     scrollVertical.value -= (1f / (itens.Count - 1));
@@ -97,11 +99,12 @@ public class UiManager : MonoBehaviour
             }
             else if (Input.GetKeyDown(KeyCode.UpArrow))
             {
-                if(cursorIndex == 0)
+                if (cursorIndex == 0)
                 {
                     cursorIndex = 0;
-                }else
-                cursorIndex--;
+                }
+                else
+                    cursorIndex--;
                 if (itemListActive && itens.Count > 0)
                 {
                     scrollVertical.value += (1f / (itens.Count - 1));
@@ -130,36 +133,36 @@ public class UiManager : MonoBehaviour
 
 
         }
-    
+
 
     }
 
     void UseItem()
     {
-       if(itens[cursorIndex].arma != null)
-		{
-			player.AddArma(itens[cursorIndex].arma);
-		}
-		else if(itens[cursorIndex].itemConsumivel!= null)
-		{
-			player.UseIten(itens[cursorIndex].itemConsumivel);
-			iventory.RemoveItem(itens[cursorIndex].itemConsumivel);
-			cursorIndex = 0;
-			RefreshItemList();
-			updateItemList(2);
-			scrollVertical.value = 1;
-		}
-		else if (itens[cursorIndex].armadura != null)
-		{
-			player.AddArmadura(itens[cursorIndex].armadura);
-		}
-		UpdateAtributes();
-		if (itens.Count > 0)
-		{
-			updateDescription();
-		}
-		else
-			descricaotexto.text = "";
+        if (itens[cursorIndex].arma != null)
+        {
+            player.AddArma(itens[cursorIndex].arma);
+        }
+        else if (itens[cursorIndex].itemConsumivel != null)
+        {
+            player.UseIten(itens[cursorIndex].itemConsumivel);
+            iventory.RemoveItem(itens[cursorIndex].itemConsumivel);
+            cursorIndex = 0;
+            RefreshItemList();
+            updateItemList(2);
+            scrollVertical.value = 1;
+        }
+        else if (itens[cursorIndex].armadura != null)
+        {
+            player.AddArmadura(itens[cursorIndex].armadura);
+        }
+        UpdateAtributes();
+        if (itens.Count > 0)
+        {
+            updateDescription();
+        }
+        else
+            descricaotexto.text = "";
     }
     void updateDescription()
     {
@@ -182,24 +185,24 @@ public class UiManager : MonoBehaviour
 
     void updateItemList(int option)
     {
-        if(option==0)
+        if (option == 0)
         {
-            for (int i = 0; i < iventory.weapons.Count;i++)
+            for (int i = 0; i < iventory.weapons.Count; i++)
             {
                 GameObject tempItem = Instantiate(itemListPrefab, content.transform);
                 tempItem.GetComponent<ItemList>().setUpWeapon(iventory.weapons[i]);
                 itens.Add(tempItem.GetComponent<ItemList>());
             }
         }
-         if (option == 1)
-      {
-          for (int h = 0; h < iventory.armaduras.Count; h++)
-          {
-              GameObject tempItem = Instantiate(itemListPrefab, content.transform);
-              tempItem.GetComponent<ItemList>().setUpArmor(iventory.armaduras[h]);
-              itens.Add(tempItem.GetComponent<ItemList>());
-          }
-      }
+        if (option == 1)
+        {
+            for (int h = 0; h < iventory.armaduras.Count; h++)
+            {
+                GameObject tempItem = Instantiate(itemListPrefab, content.transform);
+                tempItem.GetComponent<ItemList>().setUpArmor(iventory.armaduras[h]);
+                itens.Add(tempItem.GetComponent<ItemList>());
+            }
+        }
         if (option == 2)
         {
             for (int j = 0; j < iventory.itens.Count; j++)
@@ -209,14 +212,16 @@ public class UiManager : MonoBehaviour
                 itens.Add(tempItem.GetComponent<ItemList>());
             }
         }
-     
+
 
     }
     void UpdateAtributes()
     {
         vidaTexto.text = "Vida: " + Player_Controller.vidaAtual + "/" + player.vidaMax;
+        Debug.Log(vidaTexto.text);
         manaTexto.text = "Mana: " + Player_Controller.manaAtual + "/" + player.manaMax;
-        forcaTexto.text = "Ataque: " + (Player_Controller.forca + player.GetComponentInChildren<Attack>().getDano());
+        forcaTexto.text = "Força: " + Player_Controller.forca;
+        ataqueTexto.text = "Ataque: " + (Player_Controller.forca + player.GetComponentInChildren<Attack>().getDano());
         defesaTexto.text = "Defesa: " + player.defesa;
     }
 

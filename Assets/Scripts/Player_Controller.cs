@@ -25,12 +25,12 @@ public class Player_Controller : MonoBehaviour
     private float nextattack;
     private float fireRate;
 
-    public static int forca;
+    public static int forca=30;
     public int defesa;
     public int vidaMax;
     public int manaMax;
-    public static int vidaAtual;
-    public static int manaAtual;
+    public static int vidaAtual= 100;
+    public static int manaAtual= 100;
     
     void Start()
     {
@@ -128,6 +128,10 @@ public class Player_Controller : MonoBehaviour
         scale.x *= -1;
         transform.localScale = scale;
 
+    }
+    public void takeDamage(int dano)
+    {
+        vidaAtual -= (dano-defesa);
     }
 
 }

@@ -132,7 +132,7 @@ public class UiManager2 : MonoBehaviour
                 itemListActive = true;
 
             }
-            else if (Input.GetKeyDown(KeyCode.U) && itemListActive) ;
+            else if (Input.GetKeyDown(KeyCode.U) && itemListActive) 
             {
                 if (items.Count > 0)
                 {

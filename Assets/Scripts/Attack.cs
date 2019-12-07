@@ -31,4 +31,13 @@ public class Attack : MonoBehaviour
     {
         return this.damage;
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Imp")
+        {
+            Imp_Controller imp = collision.gameObject.GetComponent<Imp_Controller>();
+            imp.TakeDamage(damage + Player_Controller.forca); 
+        }
+    }
 }
