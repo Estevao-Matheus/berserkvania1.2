@@ -3427,7 +3427,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1786360371}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.2738049, y: -0.19068298, z: -10}
+  m_LocalPosition: {x: -0.27379918, y: -0.19068298, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -3816,7 +3816,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b7025ff2e27193e44a5e9c9128ff7d85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
+  speed: 1
   machadoprefab: {fileID: 516182960905661135, guid: b6a1856e6579aeb4f9d1b558822192db,
     type: 3}
   ataque: {fileID: 1889095797}
