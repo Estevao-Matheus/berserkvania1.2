@@ -39,5 +39,10 @@ public class Attack : MonoBehaviour
             Imp_Controller imp = collision.gameObject.GetComponent<Imp_Controller>();
             imp.TakeDamage(damage + Player_Controller.forca); 
         }
+        if (collision.gameObject.tag == "Jack")
+        {
+            JackObone jack = collision.gameObject.GetComponent<JackObone>();
+            jack.TakeDamage(damage + Player_Controller.forca);
+        }
     }
 }

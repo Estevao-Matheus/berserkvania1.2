@@ -1,0 +1,1063 @@
+fileFormatVersion: 2
+guid: 1a9e53b76a23bcf4aa0d8eaaf27cf35e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4509347472913378272
+    second: jack'O'Bone_0
+  - first:
+      213: 2089018963367611530
+    second: jack'O'Bone_1
+  - first:
+      213: -2593512274529246996
+    second: jack'O'Bone_2
+  - first:
+      213: 616875519878091347
+    second: jack'O'Bone_3
+  - first:
+      213: 8117866615003560880
+    second: jack'O'Bone_4
+  - first:
+      213: -8407771720611318763
+    second: jack'O'Bone_5
+  - first:
+      213: 8476428151931665511
+    second: jack'O'Bone_6
+  - first:
+      213: -7902554413173553705
+    second: jack'O'Bone_7
+  - first:
+      213: 5752934774861649364
+    second: jack'O'Bone_8
+  - first:
+      213: -5899539508647577557
+    second: jack'O'Bone_9
+  - first:
+      213: -8974582125760982373
+    second: jack'O'Bone_10
+  - first:
+      213: 26992745704744503
+    second: jack'O'Bone_11
+  - first:
+      213: 577896572769695056
+    second: jack'O'Bone_12
+  - first:
+      213: -3567958758914627659
+    second: jack'O'Bone_13
+  - first:
+      213: -819649384511855367
+    second: jack'O'Bone_14
+  - first:
+      213: 4804607998380100827
+    second: jack'O'Bone_15
+  - first:
+      213: 564684078051219896
+    second: jack'O'Bone_16
+  - first:
+      213: 3717479506480806233
+    second: jack'O'Bone_17
+  - first:
+      213: 6763200565320678946
+    second: jack'O'Bone_18
+  - first:
+      213: 482329536085192156
+    second: jack'O'Bone_19
+  - first:
+      213: -2382454404942881690
+    second: jack'O'Bone_20
+  - first:
+      213: 2850821779477544384
+    second: jack'O'Bone_21
+  - first:
+      213: 5437269501967507339
+    second: jack'O'Bone_22
+  - first:
+      213: 72797149666888007
+    second: jack'O'Bone_23
+  - first:
+      213: -5619777947909308250
+    second: jack'O'Bone_24
+  - first:
+      213: 2329376522473839465
+    second: jack'O'Bone_25
+  - first:
+      213: -5718589946591748500
+    second: jack'O'Bone_26
+  - first:
+      213: 834508659991557996
+    second: jack'O'Bone_27
+  - first:
+      213: 7508665773297185666
+    second: jack'O'Bone_28
+  - first:
+      213: 7093166798603128672
+    second: jack'O'Bone_29
+  - first:
+      213: 2310654571073670395
+    second: jack'O'Bone_30
+  - first:
+      213: 5158971926265134409
+    second: jack'O'Bone_31
+  - first:
+      213: -3560969519622727923
+    second: jack'O'Bone_32
+  - first:
+      213: -4982182669131928560
+    second: jack'O'Bone_33
+  - first:
+      213: -3464304196208532487
+    second: jack'O'Bone_34
+  - first:
+      213: -7683974193583146368
+    second: jack'O'Bone_35
+  - first:
+      213: -9220368409084444879
+    second: jack'O'Bone_36
+  - first:
+      213: -4910561921899939806
+    second: jack'O'Bone_37
+  - first:
+      213: 5041033993065719257
+    second: jack'O'Bone_38
+  - first:
+      213: 6276736569323902663
+    second: jack'O'Bone_39
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jack'O'Bone_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 82
+        width: 24
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6478858, y: 0.4826865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d1e3d6a44c1c46b614d7c6266dce5
+      internalID: -4509347472913378272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 82
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.70972896, y: 0.47464806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b53a8fdaa6ad9469ed7ae16b256840
+      internalID: 2089018963367611530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 82
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6451971, y: 0.48349178}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f57a794256c78a4fa27157ff2ff1beb
+      internalID: -2593512274529246996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 82
+        width: 24
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5443656, y: 0.49999982}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a5181c8c82a11643b7ccf75c732d501
+      internalID: 616875519878091347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 82
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.6613298, y: 0.50825393}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de8382a6d65bbb44787a6e6e9340cd15
+      internalID: 8117866615003560880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 82
+        width: 22
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6613298, y: 0.48309872}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3996d421f9c79c4e8e07f2422ed6fd0
+      internalID: -8407771720611318763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 82
+        width: 16
+        height: 41
+      alignment: 9
+      pivot: {x: 0.63309574, y: 0.47402972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0f507f3f3b45547a0709dca54e422a
+      internalID: 8476428151931665511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 82
+        width: 19
+        height: 41
+      alignment: 9
+      pivot: {x: 0.7054829, y: 0.46537298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f512b31f91979498df3b1252be470f
+      internalID: -7902554413173553705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_8
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 82
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.6638113, y: 0.49154934}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec815cb37d1b45d45adc5378f3fcb9a0
+      internalID: 5752934774861649364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 82
+        width: 29
+        height: 45
+      alignment: 9
+      pivot: {x: 0.6223881, y: 0.4763382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1259b329368122f488710cee0aece65b
+      internalID: -5899539508647577557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 82
+        width: 24
+        height: 46
+      alignment: 9
+      pivot: {x: 0.63309604, y: 0.44598937}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b86b6e388e307645826f4da4d74f279
+      internalID: -8974582125760982373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 82
+        width: 27
+        height: 41
+      alignment: 9
+      pivot: {x: 0.6051636, y: 0.47402972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d790b437399033458ca0f2240bf2b94
+      internalID: 26992745704744503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_12
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 82
+        width: 30
+        height: 37
+      alignment: 9
+      pivot: {x: 0.7011241, y: 0.43285164}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8096de8a18887ee439f1778f64fc901b
+      internalID: 577896572769695056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 102
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e55924738672a4d9b74f5107907a0d
+      internalID: -3567958758914627659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_14
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 102
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259b955c7af48634b87f84e2cc0a2653
+      internalID: -819649384511855367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 64
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce6eef95156f7d4bb3c020346445ecd
+      internalID: 4804607998380100827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 64
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413e45f605dfd8b46a39f0fa27ded442
+      internalID: 564684078051219896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053e8d7f415ad5c4c8b66b729ada92d0
+      internalID: 3717479506480806233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_18
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 64
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c050914fb570444fba6200d669c48c5
+      internalID: 6763200565320678946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 64
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b5972d5b5497649b55fe59861e421d
+      internalID: 482329536085192156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 18
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c099d813561d8b2498b3afd553740332
+      internalID: -2382454404942881690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_21
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 18
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141bcbee693ccbe43b1e0b9b2d52d91d
+      internalID: 2850821779477544384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_22
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdd39e444624264cbf53ef3749f09dd
+      internalID: 5437269501967507339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_23
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 18
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169249bff1377544695f370d8907ed7a
+      internalID: 72797149666888007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_24
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 18
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537a88a1ab39a214e9588d4a5e658bbc
+      internalID: -5619777947909308250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 18
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697093f725e78cd4cb03793437af8bcc
+      internalID: 2329376522473839465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 18
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd8affa8b39a974aa8b40f6368287fc
+      internalID: -5718589946591748500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_27
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 18
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a652d876ab92a704399111cce0e546ad
+      internalID: 834508659991557996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_28
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 18
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b386ecf3399c843903807759b021e0
+      internalID: 7508665773297185666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 18
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea42f63cb8ecbc2458510f9d12551e4c
+      internalID: 7093166798603128672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_30
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 18
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de800dc16324d640aa28b633aaf000c
+      internalID: 2310654571073670395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 18
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eff7304679d90642990a86d378e1b84
+      internalID: 5158971926265134409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_32
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 18
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31acf026f76e1c642bdd66ed4f412a75
+      internalID: -3560969519622727923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_33
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd1ccbaf114195409c5386d44283f18
+      internalID: -4982182669131928560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_34
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 30
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac2bb8f45dbe0e5479e766357c4fd70e
+      internalID: -3464304196208532487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_35
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c3434a77c92ef4abf7c8979ff6ecd7
+      internalID: -7683974193583146368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 0
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d9980f3ea7c4f4c9f4812558abdcc3
+      internalID: -9220368409084444879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_37
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932a0b4bb9cf0614d98c547dcc76cccb
+      internalID: -4910561921899939806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_38
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f0e3baa54adc84cb11c78bca66fae3
+      internalID: 5041033993065719257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jack'O'Bone_39
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6237bd9a9eea23b4890ba0d58d644280
+      internalID: 6276736569323902663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

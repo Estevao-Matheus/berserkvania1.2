@@ -24,6 +24,12 @@ public class Player_Controller : MonoBehaviour
     private static Armor armaduraEquipada;
     private float nextattack;
     private float fireRate;
+    private bool shockwave = true;
+    private bool fireball = true;
+    public  GameObject wavePrefab;
+    public  Transform ataquek;
+    public GameObject FireballPrefab;
+    public  Transform fireballpos;
 
     public static int forca=30;
     public int defesa;
@@ -73,7 +79,21 @@ public class Player_Controller : MonoBehaviour
             attack.PlayAnimation(ArmaEquipada.animação);
             nextattack = Time.time + fireRate;
         }
-        
+        if(Input.GetKeyDown(KeyCode.X)&&manaAtual>30&&shockwave && ArmaEquipada != null && Time.time > nextattack)
+        {
+            animator.SetTrigger("Attack");
+            attack.PlayAnimation(ArmaEquipada.animação);
+            Instantiate(wavePrefab, ataquek.position, ataquek.rotation);
+            manaAtual -= 30;
+            nextattack = Time.time + fireRate;
+        }
+        if (Input.GetKeyDown(KeyCode.C) && manaAtual > 15 && fireball && Time.time > nextattack)
+        {
+            animator.SetTrigger("Fire");
+            Instantiate(FireballPrefab, fireballpos.position, fireballpos.rotation);
+            manaAtual -= 15;
+            nextattack = Time.time + fireRate;
+        }
     }
     private void FixedUpdate()
     {
@@ -124,14 +144,25 @@ public class Player_Controller : MonoBehaviour
     public void Flip()
     {
         facingright = !facingright;
-        Vector3 scale = transform.localScale;
-        scale.x *= -1;
-        transform.localScale = scale;
+        transform.Rotate(0f, 180f, 0f);
 
     }
     public void takeDamage(int dano)
     {
         vidaAtual -= (dano-defesa);
+        animator.SetTrigger("Dano");
+        StartCoroutine(DamageCoroutine());
+    }
+
+    IEnumerator DamageCoroutine()
+    {
+        for (float i = 0; i < 0.2f; i += 0.2f)
+        {
+            sr.color = Color.red;
+            yield return new WaitForSeconds(0.1f);
+            sr.color = Color.white;
+            yield return new WaitForSeconds(0.1f);
+        }
     }
 
 }

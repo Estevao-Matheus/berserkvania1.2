@@ -1,0 +1,5095 @@
+fileFormatVersion: 2
+guid: 27e5da5be6906d247bb062ecd17523f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2045638470221141456
+    second: tilese_boss_mine_0
+  - first:
+      213: -1454239752525454041
+    second: tilese_boss_mine_1
+  - first:
+      213: 7438460405801340881
+    second: tilese_boss_mine_2
+  - first:
+      213: 5924543403310134406
+    second: tilese_boss_mine_3
+  - first:
+      213: 8994157642561758125
+    second: tilese_boss_mine_4
+  - first:
+      213: -8434599003699636936
+    second: tilese_boss_mine_5
+  - first:
+      213: 2830507485614846334
+    second: tilese_boss_mine_6
+  - first:
+      213: -4669063105014257426
+    second: tilese_boss_mine_7
+  - first:
+      213: 8608243406433878822
+    second: tilese_boss_mine_8
+  - first:
+      213: 3213145690050797921
+    second: tilese_boss_mine_9
+  - first:
+      213: -5097419285712264250
+    second: tilese_boss_mine_10
+  - first:
+      213: 2608290428558197860
+    second: tilese_boss_mine_11
+  - first:
+      213: -1770502084795531402
+    second: tilese_boss_mine_12
+  - first:
+      213: -7183076779456341192
+    second: tilese_boss_mine_13
+  - first:
+      213: 6279508532862372542
+    second: tilese_boss_mine_14
+  - first:
+      213: -852476730742720783
+    second: tilese_boss_mine_15
+  - first:
+      213: -1746781757223283037
+    second: tilese_boss_mine_16
+  - first:
+      213: 31893554461393038
+    second: tilese_boss_mine_17
+  - first:
+      213: -1911434157843781559
+    second: tilese_boss_mine_18
+  - first:
+      213: -2623109548968499776
+    second: tilese_boss_mine_19
+  - first:
+      213: 9139322266041127060
+    second: tilese_boss_mine_20
+  - first:
+      213: 4335373079010645665
+    second: tilese_boss_mine_21
+  - first:
+      213: 7090056387704372101
+    second: tilese_boss_mine_22
+  - first:
+      213: -101044543540680187
+    second: tilese_boss_mine_23
+  - first:
+      213: 2684628573444695984
+    second: tilese_boss_mine_24
+  - first:
+      213: -4605527078262932827
+    second: tilese_boss_mine_25
+  - first:
+      213: 6096944406264817953
+    second: tilese_boss_mine_26
+  - first:
+      213: 8871842505875521090
+    second: tilese_boss_mine_27
+  - first:
+      213: 2684672605954497066
+    second: tilese_boss_mine_28
+  - first:
+      213: -9149433820148412086
+    second: tilese_boss_mine_29
+  - first:
+      213: 8143297597790971304
+    second: tilese_boss_mine_30
+  - first:
+      213: -2703467036634667137
+    second: tilese_boss_mine_31
+  - first:
+      213: -7699673539681171784
+    second: tilese_boss_mine_32
+  - first:
+      213: -996400187825968430
+    second: tilese_boss_mine_33
+  - first:
+      213: -1217209409005549552
+    second: tilese_boss_mine_34
+  - first:
+      213: 8461887320887785017
+    second: tilese_boss_mine_35
+  - first:
+      213: -6808710586403862829
+    second: tilese_boss_mine_36
+  - first:
+      213: -2725578545183280167
+    second: tilese_boss_mine_37
+  - first:
+      213: -1146085258647852711
+    second: tilese_boss_mine_38
+  - first:
+      213: 2443264815180837173
+    second: tilese_boss_mine_39
+  - first:
+      213: -4243488271552366045
+    second: tilese_boss_mine_40
+  - first:
+      213: 3579617907441584890
+    second: tilese_boss_mine_41
+  - first:
+      213: 7078699867648293848
+    second: tilese_boss_mine_42
+  - first:
+      213: -8695361846633442941
+    second: tilese_boss_mine_43
+  - first:
+      213: 6227718546965294750
+    second: tilese_boss_mine_44
+  - first:
+      213: -3396296849225306275
+    second: tilese_boss_mine_45
+  - first:
+      213: -3059136119431385813
+    second: tilese_boss_mine_46
+  - first:
+      213: -8412177336048736054
+    second: tilese_boss_mine_47
+  - first:
+      213: 8639956422090986857
+    second: tilese_boss_mine_48
+  - first:
+      213: 3148921025589108049
+    second: tilese_boss_mine_49
+  - first:
+      213: 4444490183135363332
+    second: tilese_boss_mine_50
+  - first:
+      213: -1372627207958189445
+    second: tilese_boss_mine_51
+  - first:
+      213: 4619409122569684744
+    second: tilese_boss_mine_52
+  - first:
+      213: -6094348463446049780
+    second: tilese_boss_mine_53
+  - first:
+      213: 732583628892595607
+    second: tilese_boss_mine_54
+  - first:
+      213: 2212036138028952868
+    second: tilese_boss_mine_55
+  - first:
+      213: 3341183529086727792
+    second: tilese_boss_mine_56
+  - first:
+      213: -1072328655819741442
+    second: tilese_boss_mine_57
+  - first:
+      213: 3075355140961286917
+    second: tilese_boss_mine_58
+  - first:
+      213: -2518924510390151981
+    second: tilese_boss_mine_59
+  - first:
+      213: 767707758869135444
+    second: tilese_boss_mine_60
+  - first:
+      213: 3117300557076831913
+    second: tilese_boss_mine_61
+  - first:
+      213: 189339871851960089
+    second: tilese_boss_mine_62
+  - first:
+      213: 8275142224684749520
+    second: tilese_boss_mine_63
+  - first:
+      213: -3328539144266500505
+    second: tilese_boss_mine_64
+  - first:
+      213: -5572066471157109327
+    second: tilese_boss_mine_65
+  - first:
+      213: 9116064653891824651
+    second: tilese_boss_mine_66
+  - first:
+      213: 5969148999474090310
+    second: tilese_boss_mine_67
+  - first:
+      213: 804155294076608647
+    second: tilese_boss_mine_68
+  - first:
+      213: -4885477978207006860
+    second: tilese_boss_mine_69
+  - first:
+      213: -4251604112674170985
+    second: tilese_boss_mine_70
+  - first:
+      213: -275020321822170849
+    second: tilese_boss_mine_71
+  - first:
+      213: 6255326282165927679
+    second: tilese_boss_mine_72
+  - first:
+      213: 168157628816015611
+    second: tilese_boss_mine_73
+  - first:
+      213: 3065822156135893800
+    second: tilese_boss_mine_74
+  - first:
+      213: 8369519216029206259
+    second: tilese_boss_mine_75
+  - first:
+      213: -4321556259290933696
+    second: tilese_boss_mine_76
+  - first:
+      213: 3561286327433952184
+    second: tilese_boss_mine_77
+  - first:
+      213: 8323072573216517924
+    second: tilese_boss_mine_78
+  - first:
+      213: 8606647156456783988
+    second: tilese_boss_mine_79
+  - first:
+      213: -4377646793337924201
+    second: tilese_boss_mine_80
+  - first:
+      213: 5605923688179896697
+    second: tilese_boss_mine_81
+  - first:
+      213: -8772821951877654090
+    second: tilese_boss_mine_82
+  - first:
+      213: -872535445159060906
+    second: tilese_boss_mine_83
+  - first:
+      213: 7175575375509987376
+    second: tilese_boss_mine_84
+  - first:
+      213: -8810065335299873283
+    second: tilese_boss_mine_85
+  - first:
+      213: 6964023235147032812
+    second: tilese_boss_mine_86
+  - first:
+      213: 1183390631738082048
+    second: tilese_boss_mine_87
+  - first:
+      213: -7457317668243137756
+    second: tilese_boss_mine_88
+  - first:
+      213: 6734338974564276386
+    second: tilese_boss_mine_89
+  - first:
+      213: -687801000531806412
+    second: tilese_boss_mine_90
+  - first:
+      213: -874125510063308739
+    second: tilese_boss_mine_91
+  - first:
+      213: 8681389052306444808
+    second: tilese_boss_mine_92
+  - first:
+      213: -3477032573728897557
+    second: tilese_boss_mine_93
+  - first:
+      213: -8568386322087931719
+    second: tilese_boss_mine_94
+  - first:
+      213: 5643645853029159400
+    second: tilese_boss_mine_95
+  - first:
+      213: -654240374661669636
+    second: tilese_boss_mine_96
+  - first:
+      213: 8373195491002628452
+    second: tilese_boss_mine_97
+  - first:
+      213: -6397600975909315322
+    second: tilese_boss_mine_98
+  - first:
+      213: -5050549917772166892
+    second: tilese_boss_mine_99
+  - first:
+      213: -396112846790796930
+    second: tilese_boss_mine_100
+  - first:
+      213: -8508698645065492072
+    second: tilese_boss_mine_101
+  - first:
+      213: -2502979901331508297
+    second: tilese_boss_mine_102
+  - first:
+      213: -9114128091799940150
+    second: tilese_boss_mine_103
+  - first:
+      213: -971321272118192761
+    second: tilese_boss_mine_104
+  - first:
+      213: -7173289259523842928
+    second: tilese_boss_mine_105
+  - first:
+      213: 8509343719409931495
+    second: tilese_boss_mine_106
+  - first:
+      213: 4696832498910652132
+    second: tilese_boss_mine_107
+  - first:
+      213: -6019778845105243694
+    second: tilese_boss_mine_108
+  - first:
+      213: -767304676232009142
+    second: tilese_boss_mine_109
+  - first:
+      213: -6405462639105964699
+    second: tilese_boss_mine_110
+  - first:
+      213: 609424603738990160
+    second: tilese_boss_mine_111
+  - first:
+      213: -5378030988527162581
+    second: tilese_boss_mine_112
+  - first:
+      213: 8389685286458728858
+    second: tilese_boss_mine_113
+  - first:
+      213: 7766970310126832474
+    second: tilese_boss_mine_114
+  - first:
+      213: 960505606998344125
+    second: tilese_boss_mine_115
+  - first:
+      213: 2128692041900309980
+    second: tilese_boss_mine_116
+  - first:
+      213: -5370147362476736383
+    second: tilese_boss_mine_117
+  - first:
+      213: -6914433704777593923
+    second: tilese_boss_mine_118
+  - first:
+      213: -3275911752626849653
+    second: tilese_boss_mine_119
+  - first:
+      213: 5386365682302144887
+    second: tilese_boss_mine_120
+  - first:
+      213: -8272845337622037321
+    second: tilese_boss_mine_121
+  - first:
+      213: -5809155540550229713
+    second: tilese_boss_mine_122
+  - first:
+      213: -8347177166627280626
+    second: tilese_boss_mine_123
+  - first:
+      213: 4318638219126339818
+    second: tilese_boss_mine_124
+  - first:
+      213: 320615713088904610
+    second: tilese_boss_mine_125
+  - first:
+      213: 1251758428455546474
+    second: tilese_boss_mine_126
+  - first:
+      213: -5290698567769544004
+    second: tilese_boss_mine_127
+  - first:
+      213: -806940259514036590
+    second: tilese_boss_mine_128
+  - first:
+      213: -6654818113426169947
+    second: tilese_boss_mine_129
+  - first:
+      213: -2433983162024170695
+    second: tilese_boss_mine_130
+  - first:
+      213: 7174232593272560197
+    second: tilese_boss_mine_131
+  - first:
+      213: 7636918529394583859
+    second: tilese_boss_mine_132
+  - first:
+      213: 2357564377328229464
+    second: tilese_boss_mine_133
+  - first:
+      213: 3609813976357308426
+    second: tilese_boss_mine_134
+  - first:
+      213: -6996399944624494868
+    second: tilese_boss_mine_135
+  - first:
+      213: -9192033747878461866
+    second: tilese_boss_mine_136
+  - first:
+      213: -7488958439500679523
+    second: tilese_boss_mine_137
+  - first:
+      213: -3983984171816572508
+    second: tilese_boss_mine_138
+  - first:
+      213: -4269894991314051635
+    second: tilese_boss_mine_139
+  - first:
+      213: -4260155631175488997
+    second: tilese_boss_mine_140
+  - first:
+      213: 3054713578173444771
+    second: tilese_boss_mine_141
+  - first:
+      213: 3246407515542936833
+    second: tilese_boss_mine_142
+  - first:
+      213: 9199469671977585135
+    second: tilese_boss_mine_143
+  - first:
+      213: -921091341152516933
+    second: tilese_boss_mine_144
+  - first:
+      213: -5013743865616917564
+    second: tilese_boss_mine_145
+  - first:
+      213: -7075039356424253355
+    second: tilese_boss_mine_146
+  - first:
+      213: 4896690522505957942
+    second: tilese_boss_mine_147
+  - first:
+      213: -6622678875816995383
+    second: tilese_boss_mine_148
+  - first:
+      213: 6246621357623748129
+    second: tilese_boss_mine_149
+  - first:
+      213: -4730735039320072560
+    second: tilese_boss_mine_150
+  - first:
+      213: 6779348734422512439
+    second: tilese_boss_mine_151
+  - first:
+      213: -6127812007461860823
+    second: tilese_boss_mine_152
+  - first:
+      213: 7279076315829341149
+    second: tilese_boss_mine_153
+  - first:
+      213: 2673283485004608665
+    second: tilese_boss_mine_154
+  - first:
+      213: 7575686278673421182
+    second: tilese_boss_mine_155
+  - first:
+      213: 6284037983755819852
+    second: tilese_boss_mine_156
+  - first:
+      213: -1944450040181939151
+    second: tilese_boss_mine_157
+  - first:
+      213: 3093662946609701370
+    second: tilese_boss_mine_158
+  - first:
+      213: -4244738962149268053
+    second: tilese_boss_mine_159
+  - first:
+      213: -2674507644982346321
+    second: tilese_boss_mine_160
+  - first:
+      213: 9052775596796350943
+    second: tilese_boss_mine_161
+  - first:
+      213: -548875054562128407
+    second: tilese_boss_mine_162
+  - first:
+      213: -7979859822074950046
+    second: tilese_boss_mine_163
+  - first:
+      213: -7573667179465540884
+    second: tilese_boss_mine_164
+  - first:
+      213: -4318678024928112264
+    second: tilese_boss_mine_165
+  - first:
+      213: -6440496051975006431
+    second: tilese_boss_mine_166
+  - first:
+      213: 1076621283050163118
+    second: tilese_boss_mine_167
+  - first:
+      213: -2191053855830580214
+    second: tilese_boss_mine_168
+  - first:
+      213: -3313638284111183980
+    second: tilese_boss_mine_169
+  - first:
+      213: 4940010922538699988
+    second: tilese_boss_mine_170
+  - first:
+      213: -4308830647031724374
+    second: tilese_boss_mine_171
+  - first:
+      213: -713868022789373030
+    second: tilese_boss_mine_172
+  - first:
+      213: 6849078519603667961
+    second: tilese_boss_mine_173
+  - first:
+      213: -6959861232190436250
+    second: tilese_boss_mine_174
+  - first:
+      213: 575577080130523833
+    second: tilese_boss_mine_175
+  - first:
+      213: 5430714681684312953
+    second: tilese_boss_mine_176
+  - first:
+      213: 2005259042182080389
+    second: tilese_boss_mine_177
+  - first:
+      213: 662110324534269271
+    second: tilese_boss_mine_178
+  - first:
+      213: 2807987176244045940
+    second: tilese_boss_mine_179
+  - first:
+      213: 929628859053140681
+    second: tilese_boss_mine_180
+  - first:
+      213: -5989535998081020225
+    second: tilese_boss_mine_181
+  - first:
+      213: -869902910128831281
+    second: tilese_boss_mine_182
+  - first:
+      213: 2060006614580442678
+    second: tilese_boss_mine_183
+  - first:
+      213: 1980757779343354722
+    second: tilese_boss_mine_184
+  - first:
+      213: 548089273670467841
+    second: tilese_boss_mine_185
+  - first:
+      213: 6734964815958876767
+    second: tilese_boss_mine_186
+  - first:
+      213: -8365547111702980683
+    second: tilese_boss_mine_187
+  - first:
+      213: -3236862584738019173
+    second: tilese_boss_mine_188
+  - first:
+      213: -4333762024318030543
+    second: tilese_boss_mine_189
+  - first:
+      213: -8462469755490123380
+    second: tilese_boss_mine_190
+  - first:
+      213: 1355072468555991959
+    second: tilese_boss_mine_191
+  - first:
+      213: -1946906282601002714
+    second: tilese_boss_mine_192
+  - first:
+      213: 4409725463059233388
+    second: tilese_boss_mine_193
+  - first:
+      213: 1815782170627081254
+    second: tilese_boss_mine_194
+  - first:
+      213: 2710323757817730879
+    second: tilese_boss_mine_195
+  - first:
+      213: 1781484806151889690
+    second: tilese_boss_mine_196
+  - first:
+      213: -1291661292987692559
+    second: tilese_boss_mine_197
+  - first:
+      213: -2142833498862212001
+    second: tilese_boss_mine_198
+  - first:
+      213: 7420175747442673417
+    second: tilese_boss_mine_199
+  - first:
+      213: -4080496465088406806
+    second: tilese_boss_mine_200
+  - first:
+      213: 490363107436842952
+    second: tilese_boss_mine_201
+  - first:
+      213: 280024584838114689
+    second: tilese_boss_mine_202
+  - first:
+      213: -6794568775705578037
+    second: tilese_boss_mine_203
+  - first:
+      213: 2774537262350698723
+    second: tilese_boss_mine_204
+  - first:
+      213: 8204139836593644092
+    second: tilese_boss_mine_205
+  - first:
+      213: 6618502623948363051
+    second: tilese_boss_mine_206
+  - first:
+      213: 2203355512562706653
+    second: tilese_boss_mine_207
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tilese_boss_mine_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a10956cc7e645845b0095ee38bdf49f
+      internalID: -2045638470221141456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49388415bca6cce45856e9b7f7e67b64
+      internalID: -1454239752525454041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf41604b52eef5c46a7ba738e4ed3b47
+      internalID: 7438460405801340881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_3
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c47f56a7cdb57045b453c5f9396ba68
+      internalID: 5924543403310134406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_4
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd7166e9d513d6488fc079ca5f630bb
+      internalID: 8994157642561758125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553b71780da146c4499f97bf190fccf5
+      internalID: -8434599003699636936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_6
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46806d8d1072cca45993d2330b868515
+      internalID: 2830507485614846334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b26ab2516df7bb4394dfc8f94e6b407
+      internalID: -4669063105014257426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_8
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dae3a4c25b663b458d390c0f11d49dd
+      internalID: 8608243406433878822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_9
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb0d70199f18c444922f97354d7f912
+      internalID: 3213145690050797921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c0016b3088e4444afd060c8add0f63
+      internalID: -5097419285712264250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1006ae8c55d5040be6914923f2fd0c
+      internalID: 2608290428558197860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_12
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa6d0bebf989ea4db0bbdb37af1dafe
+      internalID: -1770502084795531402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_13
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a0d34eab34d8b4b96eb56cc9f0a364
+      internalID: -7183076779456341192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_14
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e5e73bcd705e243a04ec78acb90d0b
+      internalID: 6279508532862372542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aae77a6950ec7a418aba3b6888035b2
+      internalID: -852476730742720783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_16
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81b25ae12c6de84db617f1a48b80f0f
+      internalID: -1746781757223283037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_17
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752e4ea2dbd915d459b77137a5031433
+      internalID: 31893554461393038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_18
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9f29de127358c488ecfbc39a3ce347
+      internalID: -1911434157843781559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_19
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cc48cc16a266c4787e22059bc4d24f
+      internalID: -2623109548968499776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08069fe5172f244da65af7fb2eb67ef
+      internalID: 9139322266041127060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_21
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a8dc58a4c2f6b47b5366b1ffa57956
+      internalID: 4335373079010645665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_22
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4c415968e28784db873a0e7d03b9f2
+      internalID: 7090056387704372101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_23
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26670cfd3e1c4124d8ef017e9730956d
+      internalID: -101044543540680187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_24
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12edceae32a923640b289dc56cd05d18
+      internalID: 2684628573444695984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_25
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74dc1da6ab7d17041b1141c1df6dbc25
+      internalID: -4605527078262932827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_26
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddab3baccf8bf3742ad8ddaf0e4f1191
+      internalID: 6096944406264817953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_27
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09846bb6e5f4d346a2a5c01e7c4c76f
+      internalID: 8871842505875521090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_28
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2eccf0d5f7ef0d459dd6f66e8395645
+      internalID: 2684672605954497066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_29
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e0281c855ca4a448940233a23d635e
+      internalID: -9149433820148412086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d036e9f0a6e3246a11133e085ce27a
+      internalID: 8143297597790971304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_31
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362466b85e409fe4282e721465933d66
+      internalID: -2703467036634667137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f6b462975644549b22c7fed85a5215
+      internalID: -7699673539681171784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce149a2c5736374d9e2effae953e247
+      internalID: -996400187825968430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_34
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d66e3bf828ee4c4eb88e26ad2445a63
+      internalID: -1217209409005549552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_35
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d1fbe76415acc468cab16ef0a2bed4
+      internalID: 8461887320887785017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_36
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67722bd7ed407a04bb7c7c5bd454e0a7
+      internalID: -6808710586403862829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_37
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a57f2b91972d04091e62253c0b62f2
+      internalID: -2725578545183280167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_38
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced1cf3a3c61bc9449db46f3b68dd2ac
+      internalID: -1146085258647852711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_39
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c3a2c20db9f44e4ebcb70fe5bbc91be
+      internalID: 2443264815180837173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_40
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6580bbe21771d1540bd64d26e411ae2d
+      internalID: -4243488271552366045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_41
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f6172614c81e340bf0ff75ff804b5c
+      internalID: 3579617907441584890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_42
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53c78b600246f641a9cf3947e3ff755
+      internalID: 7078699867648293848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_43
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe5c9a7a85694d4ea5d6120d993bb6d
+      internalID: -8695361846633442941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_44
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326ee0df578088d4993e22d33b28a22c
+      internalID: 6227718546965294750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6455419ac3e7b41bff60e0f2ffabf6
+      internalID: -3396296849225306275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_46
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed22aa7769a4c7e478e14650b6604676
+      internalID: -3059136119431385813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_47
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de4389428e550d41b2a8169fac1afb8
+      internalID: -8412177336048736054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_48
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8014bedb1684a2d4bbc7af9806219f17
+      internalID: 8639956422090986857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_49
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ea0887617805844bf6222b786e6e48
+      internalID: 3148921025589108049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_50
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84ba18cc26dde7439303a30717b0556
+      internalID: 4444490183135363332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_51
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a077d6a777dfc7342a801a8e401469c9
+      internalID: -1372627207958189445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_52
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4226531cd09d204c9666981a1a8ce10
+      internalID: 4619409122569684744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_53
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358a924e97bcc104594b295fdcdc695d
+      internalID: -6094348463446049780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_54
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500bbee163b276c48858d4b9a9388f95
+      internalID: 732583628892595607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_55
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930ff278b71e9544ca35736524db2ccf
+      internalID: 2212036138028952868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_56
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b5273289cd8514eaa21befe4291ba1
+      internalID: 3341183529086727792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be9ad6162f2a8e4cbb3014e3516926f
+      internalID: -1072328655819741442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_58
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f8a5cba1fcc1a43914565391edb8ac
+      internalID: 3075355140961286917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_59
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa4e671550fb1c48992b608ffccb7b2
+      internalID: -2518924510390151981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_60
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131f110b5586c634f88a489b49a3021c
+      internalID: 767707758869135444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_61
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eedd5d4fb0b409d4f8732499d9b214fa
+      internalID: 3117300557076831913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4000523f8cf8d494bb85f23c4fcca8cd
+      internalID: 189339871851960089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_63
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b20eb7ac4d54a6419679882af07a5d6
+      internalID: 8275142224684749520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b315765c54a1b44b947c73f962a562
+      internalID: -3328539144266500505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_65
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724efbba319de6646952e58946372825
+      internalID: -5572066471157109327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_66
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b8f78c391616f408dde57a2fa6ccc6
+      internalID: 9116064653891824651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_67
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90236cb5fd4975f48b9e25f70d414596
+      internalID: 5969148999474090310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_68
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e03359ee60d6d4794e623a1a263b5f
+      internalID: 804155294076608647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_69
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7fbb632c2583e43ba5dc1c8c3f8ecc
+      internalID: -4885477978207006860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_70
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226fc92651def874d8faffedfda310ee
+      internalID: -4251604112674170985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_71
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738cc98b0eca9ed45bceec47b77713f9
+      internalID: -275020321822170849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_72
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6aabd5803f43f842a1311ffeba33b90
+      internalID: 6255326282165927679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_73
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712fa9de413289047b2fba28880314de
+      internalID: 168157628816015611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_74
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54c03df0472ccf438be2274795431eb
+      internalID: 3065822156135893800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_75
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bef8793fc57de47b94f68715481bdc
+      internalID: 8369519216029206259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_76
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf9f2dbe5d81e44293030498b7877ed
+      internalID: -4321556259290933696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_77
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f400273552ddec645a3c457143b3f339
+      internalID: 3561286327433952184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_78
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fbee176e36a0e4faf6ec65b60b8088
+      internalID: 8323072573216517924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_79
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35c6e02a6bdda04ea12702710323b1e
+      internalID: 8606647156456783988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_80
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03685f6b31451c14b9d1860f01c08e43
+      internalID: -4377646793337924201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_81
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf8b6265685b51419b00f807b785c78
+      internalID: 5605923688179896697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_82
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eff537bebcde5640a49b4fa86d06452
+      internalID: -8772821951877654090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_83
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fbc7af56a363b4db2d2dd0e87fe383
+      internalID: -872535445159060906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_84
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5bd7436e4e3034d89e5832464f38e6
+      internalID: 7175575375509987376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_85
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a6efca6e0fd1945bc4ae4564492d31
+      internalID: -8810065335299873283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_86
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c085534f0fb604bab814e9ca3913d0
+      internalID: 6964023235147032812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_87
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef98871827dfbda499bf391588bbf05f
+      internalID: 1183390631738082048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_88
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 777ccb6d34324bf4996c20ce595e43d3
+      internalID: -7457317668243137756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_89
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001f2fd8da163ac4daca0209be0c6985
+      internalID: 6734338974564276386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_90
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0106bd0fc62e648bd2d37b2575be9e
+      internalID: -687801000531806412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_91
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f468f09b25e314bab57e6e6b468460
+      internalID: -874125510063308739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_92
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e55a29dfdee95048ae198bdf3402ff9
+      internalID: 8681389052306444808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_93
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62a40fd254b49546820f36d3cd5af7e
+      internalID: -3477032573728897557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_94
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9474367d963914da47afbc6917fc25
+      internalID: -8568386322087931719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_95
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad457465d235f9944b9ee9e4a2b9f036
+      internalID: 5643645853029159400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_96
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91376c489259c8441b73a7c73c9212d6
+      internalID: -654240374661669636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_97
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3ad66c9edaff34db3a8751ee4c84d2
+      internalID: 8373195491002628452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_98
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25d80915ad5b944eb72227b6475cccd
+      internalID: -6397600975909315322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_99
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46a737d37731e74e8e4267f0153afd0
+      internalID: -5050549917772166892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_100
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b0d2fdeb405ea4385dbc4541387193
+      internalID: -396112846790796930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_101
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5ab0fdecfca114084b130390b33963
+      internalID: -8508698645065492072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_102
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbfb2772d726394baee611cd2413cb5
+      internalID: -2502979901331508297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_103
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5457104c8546aa448aa2e0bb8fa7edd
+      internalID: -9114128091799940150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_104
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b743d6868d0243b4e99106d8ef86bbc5
+      internalID: -971321272118192761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_105
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af2f7de33db5cd40a224b80621c8fc2
+      internalID: -7173289259523842928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_106
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3e10cf42fbbe6459e35a856125634f
+      internalID: 8509343719409931495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_107
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ba49d41550a6342902dfd37b21aef8
+      internalID: 4696832498910652132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_108
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d754c1e913aebf46a7866cd708b4593
+      internalID: -6019778845105243694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_109
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb5b7003c9b62245b752cc0b8e4186e
+      internalID: -767304676232009142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_110
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd999c3a212735c4eb1a4049e05dc3af
+      internalID: -6405462639105964699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_111
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25a99f0f7435b048ad7353b6300213c
+      internalID: 609424603738990160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_112
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305ceba28a008844d8dac83fa649da16
+      internalID: -5378030988527162581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_113
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7897fd79b393f4fadd1812bf6c4a09
+      internalID: 8389685286458728858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_114
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468ab42ad0644a940a3d48a2597a3aa9
+      internalID: 7766970310126832474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_115
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f761a87f29571b438b629d0fd328149
+      internalID: 960505606998344125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_116
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5a06cfff47b2049913e7050bdea477
+      internalID: 2128692041900309980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_117
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74086542ee797b84eb8f0ba490b02493
+      internalID: -5370147362476736383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_118
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaf946628d87b94e9f69002d53f7b99
+      internalID: -6914433704777593923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_119
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1367947942fb75344b6b5fdd87faa6d6
+      internalID: -3275911752626849653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_120
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f204059340659489b7cfc8a76eca6d
+      internalID: 5386365682302144887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_121
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6da574aded92234b94ccf5df616026f
+      internalID: -8272845337622037321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_122
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611673fe899148849a850c521585122c
+      internalID: -5809155540550229713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_123
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102dfdb87bb5da349a758097e9bb3f76
+      internalID: -8347177166627280626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_124
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fde7950c9ad1f4e9ca0f3d5d9f0262
+      internalID: 4318638219126339818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_125
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c5751913f7ff74b81c61ac740b0b06
+      internalID: 320615713088904610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_126
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45006db3696c08949baf9ab68ef45c56
+      internalID: 1251758428455546474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_127
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3bf8d0e1334a14ba2a729248313e7b
+      internalID: -5290698567769544004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_128
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7569594f2c71fb4bbfd8f619a085546
+      internalID: -806940259514036590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_129
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f49b5b4ce952048861e2464861d187
+      internalID: -6654818113426169947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_130
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb37490dfcb3184d98e54bb35946b97
+      internalID: -2433983162024170695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_131
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e80d7f07f6e4224eb539f02e7c13888
+      internalID: 7174232593272560197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_132
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d39838fc1c1df4aad5ba08d737c297
+      internalID: 7636918529394583859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_133
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deae95a39b67b41489d4bd26490679bf
+      internalID: 2357564377328229464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_134
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ddea7735057f344ebdf6f9d73d29dfc
+      internalID: 3609813976357308426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_135
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbab28164c875a409075937a7ba1f05
+      internalID: -6996399944624494868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_136
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc62a21c1b49814da3a6c05b4e853b4
+      internalID: -9192033747878461866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_137
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9130306a62c1d104fbb461e51c64a34a
+      internalID: -7488958439500679523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_138
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff21ea473a98b0e43b5e26270cbd2da5
+      internalID: -3983984171816572508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_139
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f3980d1294d064ebfb605d30f58aa2
+      internalID: -4269894991314051635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_140
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d610fe730c2bb8498030932f32031cd
+      internalID: -4260155631175488997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_141
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745d5cd4be01b81429cc0b74bf637f8c
+      internalID: 3054713578173444771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_142
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861089d1684ecba44a60ed8a2d6f404a
+      internalID: 3246407515542936833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_143
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250721d1d04bc57478db263d072895f2
+      internalID: 9199469671977585135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_144
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a1cfde2c736504aa11dd4cda7a7814
+      internalID: -921091341152516933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_145
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be8d7f8cbe0dff42b54b30df2b15b43
+      internalID: -5013743865616917564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_146
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91f8f447ef4a9349b5ffb84cabda901
+      internalID: -7075039356424253355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_147
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6b7830de9c6b44b95f1b9d2d6c7cd0
+      internalID: 4896690522505957942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_148
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b348e00033c38e643b8e0adc076b89f7
+      internalID: -6622678875816995383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_149
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5553297bf51784b438e169375d83e840
+      internalID: 6246621357623748129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_150
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88a000d3fb0086408a4a9cfaedd8a8e
+      internalID: -4730735039320072560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_151
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce2a43d20c77d74587d84c0a7f62d5c
+      internalID: 6779348734422512439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_152
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9630c8d6708036d478c640a2048a9eb0
+      internalID: -6127812007461860823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_153
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12aa58c37267984db04b66cf51a6006
+      internalID: 7279076315829341149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_154
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69dd0646d5e17064895e5497540dcc1c
+      internalID: 2673283485004608665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_155
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83cfff55101a8b4c8290ed217162930
+      internalID: 7575686278673421182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_156
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300dd19bc8a622c45984b3c82feef041
+      internalID: 6284037983755819852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_157
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f49a98dc64f3c94c9c615ecff55b2ae
+      internalID: -1944450040181939151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_158
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efc60b9fe8ceb645bd79c25c57311cf
+      internalID: 3093662946609701370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_159
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2511a76669f744a8beeca94843b383
+      internalID: -4244738962149268053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_160
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b031fd37f0d7e7444bc5875bc573c0c5
+      internalID: -2674507644982346321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_161
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc189da0d46706c40ad9813022682c2d
+      internalID: 9052775596796350943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_162
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377183400c83bfc489db44e14c7aca9c
+      internalID: -548875054562128407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_163
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174e8db9e0cdf0d469eeb939a450d38d
+      internalID: -7979859822074950046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_164
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcde3dd7a71e3a4f97379f4329d90a4
+      internalID: -7573667179465540884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_165
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7495f2359fa8de45821144745b649ac
+      internalID: -4318678024928112264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_166
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34a34ad6062133479868bcf1be3a3db
+      internalID: -6440496051975006431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_167
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93e193e632c8fa45a7daa2458781243
+      internalID: 1076621283050163118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_168
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c584754292c0a64784e94f0afad0ebd
+      internalID: -2191053855830580214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_169
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea099ff084460c84d89d392e8fde25e0
+      internalID: -3313638284111183980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_170
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e0bcd435e6f314ca114d74cf60e28c
+      internalID: 4940010922538699988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_171
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d513085fd643817409d48d8e48546d29
+      internalID: -4308830647031724374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_172
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad2d06797d0ac346860932d9e60df53
+      internalID: -713868022789373030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_173
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3976ae03217b2643b5f5e6c27b98348
+      internalID: 6849078519603667961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_174
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99e42abc6842e24693165adb504770b
+      internalID: -6959861232190436250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_175
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04bd22567c4e89489c3e54471705d2d
+      internalID: 575577080130523833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_176
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4da676f17ed9fc4d8e70fe55651b978
+      internalID: 5430714681684312953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_177
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94310c03d7a1ad478a6ad079d10f703
+      internalID: 2005259042182080389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_178
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0dc07658a3ad24fa137c0595498d08
+      internalID: 662110324534269271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_179
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59cfc1d781ef774cb8f6484daa8a772
+      internalID: 2807987176244045940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_180
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cad9009aed0bd44b4ecf92409c3ad3
+      internalID: 929628859053140681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_181
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed094958e00eb3409f7ea6ec82e2d34
+      internalID: -5989535998081020225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_182
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664a9d52b47ab17439eed2bcf19e40a8
+      internalID: -869902910128831281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_183
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f53f9eb30180b140b640307b9ea05c3
+      internalID: 2060006614580442678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_184
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f481a6fda906b341a5da15a0ab7a2b2
+      internalID: 1980757779343354722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_185
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7d6219832d8e346bddf8803206a625
+      internalID: 548089273670467841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_186
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d06dfa9db19b846b67b01541e2751f
+      internalID: 6734964815958876767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_187
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c908d2184ca7f4caf507fc0bedf299
+      internalID: -8365547111702980683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_188
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d9e458198f6a6489f5799da6b6f375
+      internalID: -3236862584738019173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_189
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44974404215920c46bbc31ead165dee8
+      internalID: -4333762024318030543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_190
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b79cb74dceca54ca48184bc2ffabfa
+      internalID: -8462469755490123380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_191
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93cf60d9e16de0498fa84979929cfdb
+      internalID: 1355072468555991959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_192
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb006d270e66724d919dac55e686b34
+      internalID: -1946906282601002714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_193
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3661caecf126e541a53d5a43666d62d
+      internalID: 4409725463059233388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_194
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd17eac4c77b147498bf1e64eec078c4
+      internalID: 1815782170627081254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_195
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed228e9525135374cb1c2c040727318b
+      internalID: 2710323757817730879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_196
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999cfb325574be2408cf6661df340a38
+      internalID: 1781484806151889690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_197
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bed0f4d0b5d3f34683516256ff25450
+      internalID: -1291661292987692559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_198
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c985e2bf52111547a9e691f09efd2cb
+      internalID: -2142833498862212001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_199
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d08180d8ca403543b16556f044c6310
+      internalID: 7420175747442673417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_200
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085a829016a7622488bd2a0dfe025896
+      internalID: -4080496465088406806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_201
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccd9fd27d573064daadd5506c976424
+      internalID: 490363107436842952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_202
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d66bddad793b54598aa4084139be7f
+      internalID: 280024584838114689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_203
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44417c37597e47e4989e1822834de252
+      internalID: -6794568775705578037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_204
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50003e02f3249fc459c7c92ea1a3a2a1
+      internalID: 2774537262350698723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_205
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b114ecdfced9c9747bf238d5e4fd62d4
+      internalID: 8204139836593644092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_206
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b7e4ad10c267549a1aecabcf9e0d55
+      internalID: 6618502623948363051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tilese_boss_mine_207
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3a829a2de296546a00cc3be89f30ef
+      internalID: 2203355512562706653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

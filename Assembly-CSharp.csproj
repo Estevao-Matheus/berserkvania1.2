@@ -115,21 +115,26 @@
     <Compile Include="Assets\Cinemachine\Timeline\CinemachineMixer.cs" />
     <Compile Include="Assets\Cinemachine\Timeline\CinemachineShot.cs" />
     <Compile Include="Assets\Cinemachine\Timeline\CinemachineTrack.cs" />
+    <Compile Include="Assets\machadoscript.cs" />
     <Compile Include="Assets\Scripts\Armor.cs" />
     <Compile Include="Assets\Scripts\Attack.cs" />
     <Compile Include="Assets\Scripts\Change_scene.cs" />
     <Compile Include="Assets\Scripts\Colisão.cs" />
     <Compile Include="Assets\Scripts\Consumable_itens.cs" />
     <Compile Include="Assets\Scripts\Dont_Destroy.cs" />
+    <Compile Include="Assets\Scripts\Fireballsc.cs" />
     <Compile Include="Assets\Scripts\Imp_Controller.cs" />
     <Compile Include="Assets\Scripts\Inventory.cs" />
     <Compile Include="Assets\Scripts\ItemDrop.cs" />
     <Compile Include="Assets\Scripts\ItemList.cs" />
+    <Compile Include="Assets\Scripts\JackObone.cs" />
     <Compile Include="Assets\Scripts\Player_Controller.cs" />
+    <Compile Include="Assets\Scripts\shockwave.cs" />
     <Compile Include="Assets\Scripts\UiManager.cs" />
     <Compile Include="Assets\Scripts\UiManager2.cs" />
     <Compile Include="Assets\Scripts\weapon.cs" />
     <Compile Include="Assets\Scripts\WeaponDrop.cs" />
+    <Compile Include="Assets\SpawEnemies.cs" />
     <None Include="Assets\Cinemachine\ReleaseNotes.txt" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>C:/Users/1513 X-MXTI/Documents/Berserkvania/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
