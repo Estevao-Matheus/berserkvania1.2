@@ -66,18 +66,15 @@ public class SkullController : MonoBehaviour {
     {
 
         Debug.Log("Pegou a colisao");
-
-    }
-
-    private void OnTriggerEnter2D(Collider2D col)
-    {
-        Debug.Log("Pegou a colisao");
-        HealthSystem playerLife = col.GetComponent<HealthSystem>();
-        if(playerLife != null)
+        HealthSystem playerLife = col.gameObject.GetComponent<HealthSystem>();
+        if (playerLife != null)
         {
             playerLife.Dano(dano);
         }
+
     }
+
+  
     public void Flip()
     {
         facingright = !facingright;

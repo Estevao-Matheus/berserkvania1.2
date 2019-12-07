@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player_Controller : MonoBehaviour
 {
@@ -31,10 +32,11 @@ public class Player_Controller : MonoBehaviour
     public GameObject FireballPrefab;
     public  Transform fireballpos;
 
+    public Slider barraDeVida;
     public static int forca=30;
     public int defesa;
-    public int vidaMax;
-    public int manaMax;
+    public int vidaMax = 100;
+    public int manaMax = 100;
     public static int vidaAtual= 100;
     public static int manaAtual= 100;
     
@@ -47,7 +49,10 @@ public class Player_Controller : MonoBehaviour
         attack = GetComponentInChildren<Attack>();
         animator = GetComponent<Animator>();
         fireRate = 0.377f;
-        
+        barraDeVida.minValue = 0;
+        barraDeVida.maxValue = vidaMax;
+        barraDeVida.value = vidaMax;
+
     }
 
     // Update is called once per frame
@@ -115,6 +120,29 @@ public class Player_Controller : MonoBehaviour
             Flip();
         }
     }
+
+    void ControleDeVida()
+    {
+        if (barraDeVida.value >= vidaMax)
+        {
+            barraDeVida.value = vidaMax;
+        }
+        else if (barraDeVida.value <= barraDeVida.minValue)
+        {
+            barraDeVida.value = barraDeVida.minValue;
+        }
+    }
+
+    public void Dano(float dano)
+    {
+        barraDeVida.value -= dano;
+
+        if (barraDeVida.value <= barraDeVida.minValue)
+        {
+            Debug.Log("Voce morreu");
+        }
+    }
+
     public void AddArma(Weapon arma)
     {
         ArmaEquipada = arma;
@@ -149,6 +177,7 @@ public class Player_Controller : MonoBehaviour
     }
     public void takeDamage(int dano)
     {
+        Dano(dano);
         vidaAtual -= (dano-defesa);
         animator.SetTrigger("Dano");
         StartCoroutine(DamageCoroutine());
