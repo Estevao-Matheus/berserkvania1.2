@@ -7,6 +7,7 @@ public class Inventory: MonoBehaviour
     public static Inventory inventory;
     public List<Weapon> weapons;
     public List<Consumable_itens> itens;
+    public List<Armor> armaduras;
 
     // Start is called before the first frame update
     private void Awake()
@@ -31,6 +32,10 @@ public class Inventory: MonoBehaviour
     public void AddWeapon(Weapon arma)
     {
         weapons.Add(arma);
+    }
+    public void AddArmadura(Armor armadura)
+    {
+        armaduras.Add(armadura);
     }
     public void AddIten(Consumable_itens item)
     {

@@ -8,6 +8,7 @@ public class ItemList : MonoBehaviour
     public Text text;
     public Image image;
     public Weapon arma;
+    public Armor armadura;
     // Start is called before the first frame update
 
     public void setUpItem (Consumable_itens item)
@@ -23,7 +24,12 @@ public class ItemList : MonoBehaviour
         image.sprite = arma.image;
         text.text = arma.descrição;
     }
-
+    public void setUpArmor(Armor armadura1)
+    {
+        armadura = armadura1;
+        image.sprite = armadura.image;
+        text.text = armadura.descricao;
+    }
     // Update is called once per frame
     void Update()
     {

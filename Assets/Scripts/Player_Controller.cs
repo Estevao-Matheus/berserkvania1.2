@@ -17,15 +17,20 @@ public class Player_Controller : MonoBehaviour
     public int extraJumpsvalue;
     public float jumpForce;
     private SpriteRenderer sr;
-    private Weapon ArmaEquipada;
+    private static Weapon ArmaEquipada;
     private Animator animator;
     private Attack attack;
     public Consumable_itens item;
+    private static Armor armaduraEquipada;
+    private float nextattack;
+    private float fireRate;
 
+    public static int forca;
+    public int defesa;
     public int vidaMax;
     public int manaMax;
-    public int vidaAtual;
-    public int manaAtual;
+    public static int vidaAtual;
+    public static int manaAtual;
     
     void Start()
     {
@@ -35,6 +40,8 @@ public class Player_Controller : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
         attack = GetComponentInChildren<Attack>();
         animator = GetComponent<Animator>();
+        fireRate = 0.377f;
+        
     }
 
     // Update is called once per frame
@@ -59,11 +66,12 @@ public class Player_Controller : MonoBehaviour
             animator.SetTrigger("Jump");
 
         }
-        if(Input.GetKeyDown(KeyCode.Z))
+        if(Input.GetKeyDown(KeyCode.Z)&& ArmaEquipada!=null&& Time.time> nextattack)
         {
             
             animator.SetTrigger("Attack");
             attack.PlayAnimation(ArmaEquipada.animação);
+            nextattack = Time.time + fireRate;
         }
         
     }
@@ -91,6 +99,12 @@ public class Player_Controller : MonoBehaviour
     {
         ArmaEquipada = arma;
         attack.SetWeapon(ArmaEquipada.dano);
+    }
+    public void AddArmadura(Armor armadura)
+    {
+        armaduraEquipada = armadura;
+        defesa = armaduraEquipada.defesa;
+        
     }
 
     public void UseIten (Consumable_itens item)

@@ -14,8 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemID: 1
   itemNome: "Po\xE7\xE3o de Cura"
-  "descri\xE7\xE3o": "Po\xE7\xE3o desenvolvida por alquimistas para curar os mais
-    diversos ferimentos"
+  "descri\xE7\xE3o": "Po\xE7\xE3o de Cura"
   imagem: {fileID: -7464207976680073931, guid: f194bc6e36f54aa4ca0c42cb848a9186, type: 3}
   qtdeCura: 20
   qtdeMana: 0

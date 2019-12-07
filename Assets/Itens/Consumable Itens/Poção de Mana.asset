@@ -14,8 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemID: 2
   itemNome: "Po\xE7\xE3o de Mana"
-  "descri\xE7\xE3o": "Po\xE7\xE3o desenvolvida pelos alquistas para restaurar a energia
-    magica dos homens"
+  "descri\xE7\xE3o": "Po\xE7\xE3o de Mana"
   imagem: {fileID: 2685665559570746535, guid: f194bc6e36f54aa4ca0c42cb848a9186, type: 3}
   qtdeCura: 0
   qtdeMana: 30

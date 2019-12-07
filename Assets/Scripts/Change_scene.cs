@@ -10,7 +10,7 @@ public class Change_scene : MonoBehaviour
     {
         if(collision.CompareTag("Player"))
         {
-            SceneManager.LoadSceneAsync(newLevel,LoadSceneMode.Additive);
+            SceneManager.LoadScene(newLevel);
         }
     }
 }

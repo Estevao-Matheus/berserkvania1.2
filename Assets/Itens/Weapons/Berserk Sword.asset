@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Weapon
   itemID: 2
   weaponName: Berserk Sword
-  "descri\xE7\xE3o": "Espada Amaldi\xE7oada se alimenta do sangue de seus inimigos"
+  "descri\xE7\xE3o": Berserk Sword
   dano: 50
-  image: {fileID: -6628562022593902529, guid: da50acc74ef249f4e9978e61d59f3ee4, type: 3}
+  image: {fileID: -8390250016963551691, guid: da50acc74ef249f4e9978e61d59f3ee4, type: 3}
   "anima\xE7\xE3o": {fileID: 7400000, guid: be480d40ae0cb9e4e9af2837d701c046, type: 2}
-  mensagem: arma coletada
+  mensagem: Berserk Sword Coletada

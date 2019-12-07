@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Fase1_2.unity
     guid: 7aabf8e9147084c49860324157a3912c
+  - enabled: 1
+    path: Assets/Fase1_3.unity
+    guid: 938edc5e4b5068048acde44c4afa31f3
   m_configObjects: {}

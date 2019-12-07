@@ -26,12 +26,9 @@ public class Attack : MonoBehaviour
     {
         damage = damageValue;
     }
-    public void Flip()
+  
+    public int getDano()
     {
-        
-        Vector3 scale = transform.localScale;
-        scale.x *= -1;
-        transform.localScale = scale;
-
+        return this.damage;
     }
 }
