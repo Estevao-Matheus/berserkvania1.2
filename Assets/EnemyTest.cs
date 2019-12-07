@@ -18,7 +18,6 @@ public class EnemyTest : MonoBehaviour
         //yield on a new YieldInstruction that waits for 5 seconds.
         yield return new WaitForSeconds(0.2f);
         colisor.isTrigger = true;
-
         //After we have waited 5 seconds print the time again.
         Debug.Log("Finished Coroutine at timestamp : " + Time.time);
     }
