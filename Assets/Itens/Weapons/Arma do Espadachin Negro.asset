@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 0}
-  m_Name: Alucard Sword
+  m_Name: Arma do Espadachin Negro
   m_EditorClassIdentifier: Assembly-CSharp::Weapon
   itemID: 1
-  weaponName: Alucard Sword
-  "descri\xE7\xE3o": Espada do Alucard
-  dano: 30
-  image: {fileID: 6147428750601947178, guid: da50acc74ef249f4e9978e61d59f3ee4, type: 3}
+  weaponName: Espada Longa
+  "descri\xE7\xE3o": Arma do Espadachin
+  dano: 35
+  image: {fileID: -6642673523147346432, guid: da50acc74ef249f4e9978e61d59f3ee4, type: 3}
   "anima\xE7\xE3o": {fileID: 7400000, guid: d41e418688ddc9d4f9d504df9ecdd612, type: 2}
-  mensagem: t
+  mensagem: 

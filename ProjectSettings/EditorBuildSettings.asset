@@ -5,28 +5,34 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Fase1.unity
+    path: Assets/Fases/menu.unity
+    guid: 29f95807d88799a4da93c5c10078cb2e
+  - enabled: 1
+    path: Assets/Fases/Fase1.unity
     guid: a0eb30a69e2b5904a906478d6a014cff
   - enabled: 1
-    path: Assets/Fase1_2.unity
+    path: Assets/Fases/Fase1_2.unity
     guid: 7aabf8e9147084c49860324157a3912c
   - enabled: 1
-    path: Assets/Fase1_3.unity
+    path: Assets/Fases/Fase1_3.unity
     guid: 938edc5e4b5068048acde44c4afa31f3
   - enabled: 1
-    path: Assets/Fase1_4.unity
+    path: Assets/Fases/Fase1_4.unity
     guid: eadff8f8ec534e44d9c60bb6120a8fb5
   - enabled: 1
-    path: Assets/Fase1_5.unity
+    path: Assets/Fases/Fase1_5.unity
     guid: 8d641facb81c6684bb9c016ed44059e5
   - enabled: 1
-    path: Assets/Fase1_6.unity
+    path: Assets/Fases/Fase1_6.unity
     guid: edbaf3e620a7066409ae2348615f30c2
   - enabled: 1
-    path: Assets/Fase1_boss.unity
+    path: Assets/Fases/Fase1_boss.unity
     guid: a8e87a464b63bee48895afefa89baf9b
+  - enabled: 1
+    path: Assets/Fases/GamOver.unity
+    guid: 42c291201ea933a40aa662b6cf9c34b9
   m_configObjects: {}

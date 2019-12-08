@@ -119,6 +119,7 @@
     <Compile Include="Assets\Scripts\Armor.cs" />
     <Compile Include="Assets\Scripts\ArmorDrop.cs" />
     <Compile Include="Assets\Scripts\Attack.cs" />
+    <Compile Include="Assets\Scripts\AudioScript.cs" />
     <Compile Include="Assets\Scripts\Change_scene.cs" />
     <Compile Include="Assets\Scripts\chefe_controller.cs" />
     <Compile Include="Assets\Scripts\Colisão.cs" />
@@ -132,6 +133,7 @@
     <Compile Include="Assets\Scripts\ItemList.cs" />
     <Compile Include="Assets\Scripts\JackObone.cs" />
     <Compile Include="Assets\Scripts\machadoscript.cs" />
+    <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\Scripts\Penaatack.cs" />
     <Compile Include="Assets\Scripts\Player_Controller.cs" />
     <Compile Include="Assets\Scripts\shockwave.cs" />

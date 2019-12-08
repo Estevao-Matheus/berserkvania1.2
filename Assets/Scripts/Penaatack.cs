@@ -31,6 +31,7 @@ public class Penaatack : MonoBehaviour
         {
             Player_Controller player = collision.gameObject.GetComponent<Player_Controller>();
             player.takeDamage(damage);
+            Destroy(gameObject);
         }
 
     }

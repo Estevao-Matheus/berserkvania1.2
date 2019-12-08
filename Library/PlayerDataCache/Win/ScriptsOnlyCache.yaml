@@ -2,6 +2,7 @@ ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
     - Attack
+    - AudioScript
     - Change_scene
     - Cinemachine.CinemachineBrain
     - Cinemachine.CinemachineCollider
@@ -16,10 +17,13 @@ ScriptsOnlyBuild:
     - ItemDrop
     - ItemList
     - JackObone
+    - MainMenu
+    - Penaatack
     - Player_Controller
     - SpawEnemies
     - UiManager
     - WeaponDrop
+    - chefe_controller
     - machadoscript
     - shockwave
     Unity.2D.Tilemap.Editor.dll:
@@ -43,6 +47,7 @@ ScriptsOnlyBuild:
     UnityEngine.UI.dll:
     - UnityEngine.EventSystems.EventSystem
     - UnityEngine.EventSystems.StandaloneInputModule
+    - UnityEngine.UI.Button
     - UnityEngine.UI.CanvasScaler
     - UnityEngine.UI.ContentSizeFitter
     - UnityEngine.UI.GraphicRaycaster
@@ -51,10 +56,11 @@ ScriptsOnlyBuild:
     - UnityEngine.UI.ScrollRect
     - UnityEngine.UI.Scrollbar
     - UnityEngine.UI.Shadow
+    - UnityEngine.UI.Slider
     - UnityEngine.UI.Text
     - UnityEngine.UI.VerticalLayoutGroup
   sceneClasses:
-    Assets/Fase1.unity:
+    Assets/Fases/Fase1.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -80,6 +86,10 @@ ScriptsOnlyBuild:
     - Class: 74
       Script: {instanceID: 0}
     - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
       Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
@@ -128,9 +138,13 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11704}
     - Class: 114
+      Script: {instanceID: 11744}
+    - Class: 114
       Script: {instanceID: 21264}
     - Class: 114
       Script: {instanceID: 32170}
+    - Class: 114
+      Script: {instanceID: 201540}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -147,7 +161,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 224
       Script: {instanceID: 0}
-    Assets/Fase1_2.unity:
+    Assets/Fases/Fase1_2.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -223,6 +237,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11678}
     - Class: 114
+      Script: {instanceID: 11744}
+    - Class: 114
       Script: {instanceID: 21264}
     - Class: 114
       Script: {instanceID: 32170}
@@ -244,7 +260,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 224
       Script: {instanceID: 0}
-    Assets/Fase1_3.unity:
+    Assets/Fases/Fase1_3.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -320,9 +336,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11678}
     - Class: 114
-      Script: {instanceID: 11754}
-    - Class: 114
-      Script: {instanceID: 11768}
+      Script: {instanceID: 11744}
     - Class: 114
       Script: {instanceID: 21264}
     - Class: 114
@@ -343,7 +357,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 224
       Script: {instanceID: 0}
-    Assets/Fase1_4.unity:
+    Assets/Fases/Fase1_4.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -397,6 +411,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 10260}
     - Class: 114
+      Script: {instanceID: 10340}
+    - Class: 114
       Script: {instanceID: 10380}
     - Class: 114
       Script: {instanceID: 10426}
@@ -418,6 +434,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 11340}
     - Class: 114
       Script: {instanceID: 11678}
+    - Class: 114
+      Script: {instanceID: 11704}
+    - Class: 114
+      Script: {instanceID: 11744}
     - Class: 114
       Script: {instanceID: 21264}
     - Class: 114
@@ -442,7 +462,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 224
       Script: {instanceID: 0}
-    Assets/Fase1_5.unity:
+    Assets/Fases/Fase1_5.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -508,6 +528,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11678}
     - Class: 114
+      Script: {instanceID: 11744}
+    - Class: 114
       Script: {instanceID: 11754}
     - Class: 114
       Script: {instanceID: 11768}
@@ -531,7 +553,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 224
       Script: {instanceID: 0}
-    Assets/Fase1_6.unity:
+    Assets/Fases/Fase1_6.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -599,6 +621,8 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11340}
     - Class: 114
+      Script: {instanceID: 11744}
+    - Class: 114
       Script: {instanceID: 21264}
     - Class: 114
       Script: {instanceID: 32170}
@@ -618,7 +642,7 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 224
       Script: {instanceID: 0}
-    Assets/Fase1_boss.unity:
+    Assets/Fases/Fase1_boss.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
@@ -683,6 +707,12 @@ ScriptsOnlyBuild:
       Script: {instanceID: 11340}
     - Class: 114
       Script: {instanceID: 11678}
+    - Class: 114
+      Script: {instanceID: 11744}
+    - Class: 114
+      Script: {instanceID: 145576}
+    - Class: 114
+      Script: {instanceID: 148886}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -705,20 +735,107 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 1839735485
       Script: {instanceID: 0}
-    Assets/Scenes/SampleScene.unity:
+    Assets/Fases/GamOver.unity:
     - Class: 1
       Script: {instanceID: 0}
     - Class: 4
       Script: {instanceID: 0}
     - Class: 20
       Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
     - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
       Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9676}
+    - Class: 114
+      Script: {instanceID: 9862}
+    - Class: 114
+      Script: {instanceID: 9906}
+    - Class: 114
+      Script: {instanceID: 10340}
+    - Class: 114
+      Script: {instanceID: 10774}
+    - Class: 114
+      Script: {instanceID: 11310}
+    - Class: 114
+      Script: {instanceID: 11704}
+    - Class: 114
+      Script: {instanceID: 192342}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
     - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+    Assets/Fases/menu.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 82
+      Script: {instanceID: 0}
+    - Class: 83
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 9676}
+    - Class: 114
+      Script: {instanceID: 9862}
+    - Class: 114
+      Script: {instanceID: 9906}
+    - Class: 114
+      Script: {instanceID: 10340}
+    - Class: 114
+      Script: {instanceID: 10774}
+    - Class: 114
+      Script: {instanceID: 11310}
+    - Class: 114
+      Script: {instanceID: 11704}
+    - Class: 114
+      Script: {instanceID: 192342}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 213
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 223
+      Script: {instanceID: 0}
+    - Class: 224
       Script: {instanceID: 0}
   scriptHashData:
   - hash:
@@ -1251,7 +1368,7 @@ ScriptsOnlyBuild:
     className: BeforeAfterTestCommandState
   - hash:
       serializedVersion: 2
-      Hash: 29572c5538d1422ed05250794aa2239a
+      Hash: e0c73ef5e637dc6729370aca18d9ef14
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: Player_Controller
@@ -1425,7 +1542,7 @@ ScriptsOnlyBuild:
     className: SpawEnemies
   - hash:
       serializedVersion: 2
-      Hash: 373cea7c341d6472a4410781421441d5
+      Hash: 45a10f7a47abdb04fc3bc25bdfa26bde
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: JackObone
@@ -1435,14 +1552,63 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: machadoscript
+  - hash:
+      serializedVersion: 2
+      Hash: 0816010bd4a0729f1b335fa9627af519
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: SkullController
+  - hash:
+      serializedVersion: 2
+      Hash: ea18d6ce1b3df0aa19d126f26cce25b1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HealthSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 3f647c968e2ce7f0ffe05768c27aa8d3
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EnemyTest
+  - hash:
+      serializedVersion: 2
+      Hash: 97f0b955bc91872dd50eef041626f261
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: ArmorDrop
+  - hash:
+      serializedVersion: 2
+      Hash: b0d20936fd16c45fa56b63aa8ce3e651
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: chefe_controller
+  - hash:
+      serializedVersion: 2
+      Hash: 048468a8226187d6e2b395134fe69ff1
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Penaatack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MainMenu
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: AudioScript
   platform: 5
   scenePathNames:
-  - Assets/Scenes/SampleScene.unity
-  - Assets/Fase1.unity
-  - Assets/Fase1_2.unity
-  - Assets/Fase1_3.unity
-  - Assets/Fase1_4.unity
-  - Assets/Fase1_5.unity
-  - Assets/Fase1_6.unity
-  - Assets/Fase1_boss.unity
+  - Assets/Fases/menu.unity
+  - Assets/Fases/Fase1.unity
+  - Assets/Fases/Fase1_2.unity
+  - Assets/Fases/Fase1_3.unity
+  - Assets/Fases/Fase1_4.unity
+  - Assets/Fases/Fase1_5.unity
+  - Assets/Fases/Fase1_6.unity
+  - Assets/Fases/Fase1_boss.unity
+  - Assets/Fases/GamOver.unity
   playerPath: C:/Users/1513 X-MXTI/Documents/Berserkvania/Berserkvania.exe

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class Player_Controller : MonoBehaviour
 {
@@ -11,7 +12,7 @@ public class Player_Controller : MonoBehaviour
     private bool onGround;
     private bool facingright = true;
     public Transform groundcheck;
-    public float checkRadius;
+    public static float checkRadius= 0.1f;
     public LayerMask whatIsGround;
     private int extraJumps;
     public int extraJumpsvalue;
@@ -162,6 +163,11 @@ public class Player_Controller : MonoBehaviour
         vidaAtual -= (dano-defesa);
         animator.SetTrigger("Dano");
         StartCoroutine(DamageCoroutine());
+        if(vidaAtual<0)
+        {
+            SceneManager.LoadScene("GameOver");
+
+        }
     }
 
     IEnumerator DamageCoroutine()

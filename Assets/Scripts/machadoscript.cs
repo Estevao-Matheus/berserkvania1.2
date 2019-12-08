@@ -25,6 +25,7 @@ public class machadoscript : MonoBehaviour
         {
             Player_Controller player = collision.gameObject.GetComponent<Player_Controller>();
             player.takeDamage(damage);
+            
         }
 
     }
