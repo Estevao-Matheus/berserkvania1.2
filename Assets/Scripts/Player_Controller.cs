@@ -70,6 +70,12 @@ public class Player_Controller : MonoBehaviour
             rb.velocity = Vector2.up * jumpForce;
            
             animator.SetTrigger("Jump");
+            if(Input.GetKeyDown(KeyCode.Z) && ArmaEquipada != null && Time.time > nextattack)
+            {
+                animator.SetTrigger("JumpAttack");
+                attack.PlayAnimation(ArmaEquipada.animação);
+                nextattack = Time.time + fireRate;
+            }
 
         }
         if(Input.GetKeyDown(KeyCode.Z)&& ArmaEquipada!=null&& Time.time> nextattack)
@@ -94,6 +100,7 @@ public class Player_Controller : MonoBehaviour
             manaAtual -= 15;
             nextattack = Time.time + fireRate;
         }
+       
     }
     private void FixedUpdate()
     {

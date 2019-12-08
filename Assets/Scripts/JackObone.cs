@@ -37,18 +37,18 @@ public class JackObone : MonoBehaviour
         if (!morto)
         {
 
-            if (Vector2.Distance(transform.position, target.position) > 2)
+            if (Vector2.Distance(transform.position, target.position) >2) //só começar  seguir com esse codigo quando raycast achar player, colocar um raycast não muito longo
             {
                 var targetPos = new Vector2(target.position.x, transform.position.y);
                 transform.position = Vector2.MoveTowards(transform.position, targetPos, speed * Time.deltaTime);
                 animator.SetBool("andando",true);
-                if (transform.position.x > 0 && !facingright)
+                if (transform.position.x > 0 && !facingright)// mudar pra se raycast não achar player
                 {
                     //sr.flipX = false;
                     Flip();
 
                 }
-                else if (transform.position.x < 0 && facingright)
+                else if (transform.position.x < 0 && facingright)// mudar pra se raycast não achar player
                 {
 
                     //sr.flipX = true;

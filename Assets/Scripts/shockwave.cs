@@ -26,6 +26,6 @@ public class shockwave : MonoBehaviour
             Imp_Controller imp = collision.gameObject.GetComponent<Imp_Controller>();
             imp.TakeDamage(damage + Player_Controller.forca);
         }
-        
+       
     }
 }

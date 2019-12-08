@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 0}
   m_Name: Alucard Sword
   m_EditorClassIdentifier: Assembly-CSharp::Weapon
-  itemID: 2
+  itemID: 1
   weaponName: Alucard Sword
   "descri\xE7\xE3o": Espada do Alucard
   dano: 30

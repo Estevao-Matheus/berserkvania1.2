@@ -17,4 +17,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Fase1_3.unity
     guid: 938edc5e4b5068048acde44c4afa31f3
+  - enabled: 1
+    path: Assets/Fase1_4.unity
+    guid: eadff8f8ec534e44d9c60bb6120a8fb5
+  - enabled: 1
+    path: Assets/Fase1_5.unity
+    guid: 8d641facb81c6684bb9c016ed44059e5
+  - enabled: 1
+    path: Assets/Fase1_6.unity
+    guid: edbaf3e620a7066409ae2348615f30c2
+  - enabled: 1
+    path: Assets/Fase1_boss.unity
+    guid: a8e87a464b63bee48895afefa89baf9b
   m_configObjects: {}

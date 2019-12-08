@@ -3221,5 +3221,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: weapondrop
       objectReference: {fileID: 0}
+    - target: {fileID: 8604953796248597821, guid: a7288210480609e4696825d483ca23e9,
+        type: 3}
+      propertyPath: arma
+      value: 
+      objectReference: {fileID: 11400000, guid: 36d5e3217e7ae9c4dbfbcb2cae17b1c2,
+        type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a7288210480609e4696825d483ca23e9, type: 3}

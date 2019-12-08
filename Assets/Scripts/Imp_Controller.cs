@@ -13,14 +13,16 @@ public class Imp_Controller : MonoBehaviour
     private bool morto = false;
     private Animator animator;
     private SpriteRenderer sprite;
-    private int attack = 20;
+    private int attack = 5;
+   
     // Start is called before the first frame update
     void Start()
     {
-        hp = 100;
+        hp =30;
         target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
         animator = GetComponent<Animator>();
         sprite = GetComponent<SpriteRenderer>();
+        
     }
 
     // Update is called once per frame
@@ -52,6 +54,9 @@ public class Imp_Controller : MonoBehaviour
         {
             Player_Controller player = collision.gameObject.GetComponent<Player_Controller>();
             player.takeDamage(attack);
+            morto = true;
+            animator.SetTrigger("Dead");
+   
         }
 
 
