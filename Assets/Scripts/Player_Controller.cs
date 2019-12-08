@@ -15,7 +15,7 @@ public class Player_Controller : MonoBehaviour
     public float checkRadius;
     public LayerMask whatIsGround;
     private int extraJumps;
-    public int extraJumpsvalue;
+    public int extraJumpsvalue = 1;
     public float jumpForce;
     private SpriteRenderer sr;
     private static Weapon ArmaEquipada;
@@ -62,9 +62,6 @@ public class Player_Controller : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-
-        ControleDeVida();
-        ControleDeMana();
         if (onGround == true)
         {
             extraJumps = extraJumpsvalue;
@@ -128,30 +125,7 @@ public class Player_Controller : MonoBehaviour
         }
     }
 
-    void ControleDeVida()
-    {
-        if (barraDeVida.value >= vidaMax)
-        {
-            barraDeVida.value = vidaMax;
-        }
-        else if (barraDeVida.value <= barraDeVida.minValue)
-        {
-            barraDeVida.value = barraDeVida.minValue;
-        }
-    }
-    void ControleDeMana()
-    {
-        if (barraDeMana.value >= manaMax)
-        {
-            barraDeVida.value = manaMax;
-        }
-        else if (barraDeMana.value <= barraDeMana.minValue)
-        {
-            barraDeMana.value = barraDeMana.minValue;
-        }
-    }
-
-    public void Dano(float dano)
+    public void Dano(int dano)
     {
         barraDeVida.value -= dano;
 
@@ -161,7 +135,7 @@ public class Player_Controller : MonoBehaviour
         }
     }
 
-    public void Gasto(float gasto)
+    public void Gasto(int gasto)
     {
         barraDeMana.value -= gasto;
 
@@ -227,7 +201,7 @@ public class Player_Controller : MonoBehaviour
     }
     public void takeDamage(int dano)
     {
-        Dano(dano - defesa);
+        Dano((dano-defesa));
         vidaAtual -= (dano - defesa);
         animator.SetTrigger("Dano");
         StartCoroutine(DamageCoroutine());
