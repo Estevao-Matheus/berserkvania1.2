@@ -171,6 +171,26 @@ public class Player_Controller : MonoBehaviour
         }
     }
 
+    public void RecoverMana(float qtd)
+    {
+        barraDeMana.value += qtd;
+
+        if (barraDeMana.value >= barraDeMana.maxValue)
+        {
+            Debug.Log("Voce se recuperou totalmente");
+        }
+    }
+
+    public void RecoverVida(float qtd)
+    {
+        barraDeVida.value += qtd;
+
+        if (barraDeVida.value >= barraDeVida.maxValue)
+        {
+            Debug.Log("Voce se recuperou totalmente");
+        }
+    }
+
     public void AddArma(Weapon arma)
     {
         ArmaEquipada = arma;
@@ -186,11 +206,13 @@ public class Player_Controller : MonoBehaviour
     public void UseIten(Consumable_itens item)
     {
         vidaAtual += item.qtdeCura;
+        RecoverVida(item.qtdeCura);
         if (vidaAtual >= vidaMax)
         {
             vidaAtual = vidaMax;
         }
         manaAtual += item.qtdeMana;
+        RecoverMana(item.qtdeMana);
         if (manaAtual >= manaMax)
         {
             manaAtual = manaMax;
@@ -205,7 +227,7 @@ public class Player_Controller : MonoBehaviour
     }
     public void takeDamage(int dano)
     {
-        Dano(dano);
+        Dano(dano - defesa);
         vidaAtual -= (dano - defesa);
         animator.SetTrigger("Dano");
         StartCoroutine(DamageCoroutine());
