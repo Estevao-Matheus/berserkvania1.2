@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Player_Controller : MonoBehaviour
 {
@@ -26,18 +27,20 @@ public class Player_Controller : MonoBehaviour
     private float fireRate;
     private bool shockwave = true;
     private bool fireball = true;
-    public  GameObject wavePrefab;
-    public  Transform ataquek;
+    public GameObject wavePrefab;
+    public Transform ataquek;
     public GameObject FireballPrefab;
-    public  Transform fireballpos;
+    public Transform fireballpos;
 
-    public static int forca=30;
+    public Slider barraDeVida;
+    public Slider barraDeMana;
+    public static int forca = 30;
     public int defesa;
-    public int vidaMax;
-    public int manaMax;
-    public static int vidaAtual= 100;
-    public static int manaAtual= 100;
-    
+    public int vidaMax = 100;
+    public int manaMax = 100;
+    public static int vidaAtual = 100;
+    public static int manaAtual = 100;
+
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -47,50 +50,52 @@ public class Player_Controller : MonoBehaviour
         attack = GetComponentInChildren<Attack>();
         animator = GetComponent<Animator>();
         fireRate = 0.377f;
-        
+        barraDeVida.minValue = 0;
+        barraDeVida.maxValue = vidaMax;
+        barraDeVida.value = vidaMax;
+        barraDeMana.minValue = 0;
+        barraDeMana.maxValue = manaMax;
+        barraDeMana.value = manaMax;
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
 
+        ControleDeVida();
+        ControleDeMana();
         if (onGround == true)
         {
             extraJumps = extraJumpsvalue;
         }
-        if (Input.GetKeyDown(KeyCode.Space)&& extraJumps>0)
+        if (Input.GetKeyDown(KeyCode.Space) && extraJumps > 0)
         {
-            rb.velocity=Vector2.up*jumpForce;
+            rb.velocity = Vector2.up * jumpForce;
             extraJumps--;
             animator.SetTrigger("Jump");
         }
-        else if(Input.GetKeyDown(KeyCode.Space)&& extraJumps==0&& onGround ==true)
+        else if (Input.GetKeyDown(KeyCode.Space) && extraJumps == 0 && onGround == true)
         {
             rb.velocity = Vector2.up * jumpForce;
-           
+
             animator.SetTrigger("Jump");
-            if(Input.GetKeyDown(KeyCode.Z) && ArmaEquipada != null && Time.time > nextattack)
-            {
-                animator.SetTrigger("JumpAttack");
-                attack.PlayAnimation(ArmaEquipada.animação);
-                nextattack = Time.time + fireRate;
-            }
 
         }
-        if(Input.GetKeyDown(KeyCode.Z)&& ArmaEquipada!=null&& Time.time> nextattack)
+        if (Input.GetKeyDown(KeyCode.Z) && ArmaEquipada != null && Time.time > nextattack)
         {
-            
+
             animator.SetTrigger("Attack");
             attack.PlayAnimation(ArmaEquipada.animação);
             nextattack = Time.time + fireRate;
         }
-        if(Input.GetKeyDown(KeyCode.X)&&manaAtual>30&&shockwave && ArmaEquipada != null && Time.time > nextattack)
+        if (Input.GetKeyDown(KeyCode.X) && manaAtual > 30 && shockwave && ArmaEquipada != null && Time.time > nextattack)
         {
             animator.SetTrigger("Attack");
             attack.PlayAnimation(ArmaEquipada.animação);
             Instantiate(wavePrefab, ataquek.position, ataquek.rotation);
             manaAtual -= 30;
+            Gasto(30);
             nextattack = Time.time + fireRate;
         }
         if (Input.GetKeyDown(KeyCode.C) && manaAtual > 15 && fireball && Time.time > nextattack)
@@ -98,9 +103,9 @@ public class Player_Controller : MonoBehaviour
             animator.SetTrigger("Fire");
             Instantiate(FireballPrefab, fireballpos.position, fireballpos.rotation);
             manaAtual -= 15;
+            Gasto(15);
             nextattack = Time.time + fireRate;
         }
-       
     }
     private void FixedUpdate()
     {
@@ -108,20 +113,64 @@ public class Player_Controller : MonoBehaviour
         float h = Input.GetAxisRaw("Horizontal");
         animator.SetFloat("Speed", Mathf.Abs(h));
         rb.velocity = new Vector2(h * speed, rb.velocity.y);
-        
-        if(h>0 && !facingright)
+
+        if (h > 0 && !facingright)
         {
             //sr.flipX = false;
             Flip();
-           
+
         }
-        else if(h<0 && facingright)
+        else if (h < 0 && facingright)
         {
 
             //sr.flipX = true;
             Flip();
         }
     }
+
+    void ControleDeVida()
+    {
+        if (barraDeVida.value >= vidaMax)
+        {
+            barraDeVida.value = vidaMax;
+        }
+        else if (barraDeVida.value <= barraDeVida.minValue)
+        {
+            barraDeVida.value = barraDeVida.minValue;
+        }
+    }
+    void ControleDeMana()
+    {
+        if (barraDeMana.value >= manaMax)
+        {
+            barraDeVida.value = manaMax;
+        }
+        else if (barraDeMana.value <= barraDeMana.minValue)
+        {
+            barraDeMana.value = barraDeMana.minValue;
+        }
+    }
+
+    public void Dano(float dano)
+    {
+        barraDeVida.value -= dano;
+
+        if (barraDeVida.value <= barraDeVida.minValue)
+        {
+            Debug.Log("Voce morreu");
+        }
+    }
+
+    public void Gasto(float gasto)
+    {
+        barraDeMana.value -= gasto;
+
+        if (barraDeMana.value <= barraDeMana.minValue)
+        {
+            Debug.Log("Voce esta sem mana");
+        }
+    }
+
     public void AddArma(Weapon arma)
     {
         ArmaEquipada = arma;
@@ -131,13 +180,13 @@ public class Player_Controller : MonoBehaviour
     {
         armaduraEquipada = armadura;
         defesa = armaduraEquipada.defesa;
-        
+
     }
 
-    public void UseIten (Consumable_itens item)
+    public void UseIten(Consumable_itens item)
     {
         vidaAtual += item.qtdeCura;
-        if(vidaAtual>=vidaMax)
+        if (vidaAtual >= vidaMax)
         {
             vidaAtual = vidaMax;
         }
@@ -156,7 +205,8 @@ public class Player_Controller : MonoBehaviour
     }
     public void takeDamage(int dano)
     {
-        vidaAtual -= (dano-defesa);
+        Dano(dano);
+        vidaAtual -= (dano - defesa);
         animator.SetTrigger("Dano");
         StartCoroutine(DamageCoroutine());
     }
