@@ -31,7 +31,7 @@ public class Player_Controller : MonoBehaviour
     public GameObject FireballPrefab;
     public  Transform fireballpos;
 
-    public static int forca=30;
+    public static int forca=50;
     public int defesa;
     public int vidaMax;
     public int manaMax;
@@ -64,25 +64,28 @@ public class Player_Controller : MonoBehaviour
             rb.velocity=Vector2.up*jumpForce;
             extraJumps--;
             animator.SetTrigger("Jump");
+         
         }
         else if(Input.GetKeyDown(KeyCode.Space)&& extraJumps==0&& onGround ==true)
         {
             rb.velocity = Vector2.up * jumpForce;
            
             animator.SetTrigger("Jump");
-            if(Input.GetKeyDown(KeyCode.Z) && ArmaEquipada != null && Time.time > nextattack)
-            {
-                animator.SetTrigger("JumpAttack");
-                attack.PlayAnimation(ArmaEquipada.animação);
-                nextattack = Time.time + fireRate;
-            }
+           
 
         }
         if(Input.GetKeyDown(KeyCode.Z)&& ArmaEquipada!=null&& Time.time> nextattack)
         {
-            
-            animator.SetTrigger("Attack");
-            attack.PlayAnimation(ArmaEquipada.animação);
+
+            if (onGround == true)
+            {
+                animator.SetTrigger("Attack");
+                attack.PlayAnimation(ArmaEquipada.animação);
+            }else
+            {
+                animator.SetTrigger("JumpAttack");
+                attack.PlayAnimation(ArmaEquipada.animação);
+            }
             nextattack = Time.time + fireRate;
         }
         if(Input.GetKeyDown(KeyCode.X)&&manaAtual>30&&shockwave && ArmaEquipada != null && Time.time > nextattack)

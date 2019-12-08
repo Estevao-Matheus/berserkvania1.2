@@ -44,5 +44,10 @@ public class Attack : MonoBehaviour
             JackObone jack = collision.gameObject.GetComponent<JackObone>();
             jack.TakeDamage(damage + Player_Controller.forca);
         }
+        if (collision.gameObject.tag == "boss")
+        {
+           chefe_controller chefe = collision.gameObject.GetComponent<chefe_controller>();
+            chefe.TakeDamage(damage + Player_Controller.forca);
+        }
     }
 }
