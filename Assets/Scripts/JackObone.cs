@@ -8,7 +8,7 @@ public class JackObone : MonoBehaviour
     private int hp;
     private Transform target;
     public int speed;
-    private bool facingright = false;
+    private bool facingright = true;
     private bool morto = false;
     private Animator animator;
     private SpriteRenderer sprite;

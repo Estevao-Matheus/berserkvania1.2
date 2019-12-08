@@ -6,23 +6,24 @@ public class SkullController : MonoBehaviour {
 
     public Transform originPoint;
     private Vector2 dir = new Vector2(-1,0);
-    private Vector2 targetPosition = new Vector2(-1, 0);
-    public float distance = 0.2f;
-    BoxCollider2D colisor;
+    private Vector2 targetPos = new Vector2(-1, 0);
+    private bool morto = false;
+    public float distance = 0.07f;
     Animator animator;
+    private SpriteRenderer sprite;
     Rigidbody2D rb;
     private int hp;
     private Transform target;
     public float speed = 0.5f;
     private bool facingright = false;
-    public float dano = 25.0f;
+    private int attack = 20;
     // Start is called before the first frame update
     void Start()
     {
         hp = 100;
         target = GameObject.FindGameObjectWithTag("Player").GetComponent<Transform>();
         animator = GetComponent<Animator>();
-        colisor = GetComponent<BoxCollider2D>();
+        sprite = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
@@ -37,20 +38,18 @@ public class SkullController : MonoBehaviour {
             {
                 animator.SetBool("walking", false);
                 animator.SetBool("attacking", true);
-                //Esta comentado pois para pegar o component da vida do player, só funciona na função de trigger enter, e não do Collision;
-                //colisor.isTrigger = false;
             }
         }
         else
         {
             animator.SetBool("walking", true);
             animator.SetBool("attacking", false);
-            targetPosition.x = target.position.x;
-            targetPosition.y = transform.position.y;
-            transform.position = Vector2.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
+            targetPos.x = target.position.x;
+            targetPos.y = transform.position.y;
+            transform.position = Vector2.MoveTowards(transform.position, targetPos, speed * Time.deltaTime);
             if (transform.position.x > 0 && !facingright)
             {
-                
+
                 Flip();
 
             }
@@ -62,23 +61,55 @@ public class SkullController : MonoBehaviour {
         }
         
     }
-    private void OnCollisionEnter2D(Collision2D col)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
 
-        Debug.Log("Pegou a colisao");
-        HealthSystem playerLife = col.gameObject.GetComponent<HealthSystem>();
-        if (playerLife != null)
+        if (collision.gameObject.tag == "Player")
         {
-            playerLife.Dano(dano);
+            Player_Controller player = collision.gameObject.GetComponent<Player_Controller>();
+            player.takeDamage(attack);
         }
+
 
     }
 
-  
+    public void TakeDamage(int dano)
+    {
+
+        hp -= dano;
+
+        if (hp < 0)
+        {
+            animator.SetBool("dying", true);
+
+        }
+        else
+        {
+            StartCoroutine(DamageCoroutine());
+        }
+
+
+    }
+    IEnumerator DamageCoroutine()
+    {
+        for (float i = 0; i < 0.2f; i += 0.2f)
+        {
+            sprite.color = Color.red;
+            yield return new WaitForSeconds(0.1f);
+            sprite.color = Color.white;
+            yield return new WaitForSeconds(0.1f);
+        }
+    }
+
+    public void Destroythis()
+    {
+        Destroy(gameObject);
+    }
+
     public void Flip()
     {
         facingright = !facingright;
-        Vector2 scale = transform.localScale;
+        Vector3 scale = transform.localScale;
         scale.x *= -1;
         transform.localScale = scale;
         dir *= -1;
